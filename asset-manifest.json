@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.41501f59.css",
-    "main.js": "/static/js/main.0a1cf5b9.js",
+    "main.js": "/static/js/main.f9468157.js",
     "static/js/453.d1456f2b.chunk.js": "/static/js/453.d1456f2b.chunk.js",
     "static/media/14. Landing page with route ban.jpg": "/static/media/14. Landing page with route ban.78f4b41955b729114b90.jpg",
     "static/media/13. Landing page with route eng.jpg": "/static/media/13. Landing page with route eng.c5fde2cef44a43561a17.jpg",
@@ -55,11 +55,11 @@
     "static/media/image8.jpg": "/static/media/image8.072f64f7d74167fa6a2f.jpg",
     "index.html": "/index.html",
     "main.41501f59.css.map": "/static/css/main.41501f59.css.map",
-    "main.0a1cf5b9.js.map": "/static/js/main.0a1cf5b9.js.map",
+    "main.f9468157.js.map": "/static/js/main.f9468157.js.map",
     "453.d1456f2b.chunk.js.map": "/static/js/453.d1456f2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41501f59.css",
-    "static/js/main.0a1cf5b9.js"
+    "static/js/main.f9468157.js"
   ]
 }
