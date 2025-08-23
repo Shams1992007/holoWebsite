@@ -1,0 +1,83 @@
+.welcomeContainer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    text-align: center;
+    background: #ffffff;
+    min-height: calc(100vh - 200px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .languageSwitch {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .languageButton {
+    background: #e5e7eb;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    color: #1a1a1a;
+  }
+  
+  .languageButton.active {
+    background: #3b82f6;
+    color: #ffffff;
+  }
+  
+  .logo {
+    width: 120px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    font-size: 32px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 30px;
+  }
+  
+  .buttonContainer {
+    margin: 15px 0;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 12px 24px;
+    background: #000000;
+    color: #ffffff;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.2s;
+  }
+  
+  .button:hover {
+    background: #2563eb;
+  }
+  
+  @media (max-width: 640px) {
+    .welcomeContainer {
+      padding: 20px;
+    }
+  
+    .title {
+      font-size: 24px;
+    }
+  
+    .button {
+      padding: 10px 20px;
+      font-size: 14px;
+    }
+  }

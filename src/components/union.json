@@ -1,0 +1,25 @@
+{
+    "Dhaka": {
+        "Narsingdi": {
+          "Belabo": ["Amlab", "Bajnab", "Belab", "Binnabaid", "Chorujilab", "Narayanpur", "Sallabad", "Patuli", "Daira"],
+          "Monohardi": ["Borchapa", "Chalakchar", "Chormandalia", "Ekduaria", "Gotashia", "Kachikata", "Khadirpur", "Shukundi", "Daulatpur", "Krishnapur Union", "Lebutola", "Chandannabari"],
+          "Narsingdi Sadar": ["Alokbali", "Chor Dighaldhi", "Karimpur", "Kathalia", "Nurala Pur", "Mahishashura", "Meherpara", "Nazarpur", "Paikarchar", "Panchdona", "Shilmandi", "Amdia 2"],
+          "Polash": ["Danga", "Chor Sindur", "Jinaradi", "Gajaria"],
+          "Raipura": ["Chanpur", "Alipura", "Amirganj", "Adiyabad", "Bashgari", "Chanderkandi", "Chor Aralia", "Chormodhua", "Chor Subuddhi", "Hairmara", "Maheshpur", "Mirjanagar", "Mirzarchar", "Nilakkhya", "Polashtali", "Paratali", "Shrinagar", "Raipura", "Mushapur", "Uttor Bakharnagar", "Morjal"],
+          "Shibpur": ["Dulalpur", "Jaynagar", "Shadharchar", "Machimpur", "Chakradha", "Joshur", "Baghab", "Ayubpur", "Putia"]
+        },
+      "Gazipur": {
+        "Tongi": ["Tongi East", "Tongi West"],
+        "Kaliakair": ["Kaliakair 1", "Kaliakair 2"],
+        "Kapasia": ["Kapasia 1", "Kapasia 2"]
+      }
+    },
+    "Chattogram": {
+      "Chattogram": {
+        "Pahartali": ["Pahartali 1", "Pahartali 2"],
+        "Patiya": ["Patiya 1", "Patiya 2"],
+        "Sitakunda": ["Sitakunda 1", "Sitakunda 2"]
+      }
+    }
+  }
+  

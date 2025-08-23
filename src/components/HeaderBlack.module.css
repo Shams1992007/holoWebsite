@@ -1,0 +1,223 @@
+.header {
+  background: linear-gradient(to right, #1e3a8a, #3b82f6);
+  color: #ffffff;
+  position: relative;
+  z-index: 1000;
+}
+
+.headerMiddle {
+  background-color: #000000;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1rem 0;
+}
+
+.headerRow {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.siteLogoWrap {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex: 1;
+}
+
+.siteLogo img {
+  width: 150px;
+  height: auto;
+}
+
+.getSupport {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.getSupportIcon {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+
+.getSupportInfo h6 {
+  font-size: 0.875rem;
+  color: #ffffff;
+  margin: 0;
+}
+
+.getSupportInfo h4 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0;
+}
+
+.getSupportInfo a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.getSupportInfo a:hover {
+  color: #10b981;
+}
+
+.headerMenuColumn {
+  flex: 1;
+  display: none;
+}
+
+.headerMenuColumn.active {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+  z-index: 1000;
+  padding: 2rem;
+}
+
+@media (min-width: 1200px) {
+  .headerMenuColumn {
+    display: block;
+    position: static;
+    width: auto;
+    height: auto;
+    padding: 0;
+  }
+}
+
+.mainMenu {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+@media (min-width: 1200px) {
+  .mainMenu {
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+}
+
+.mainMenu li {
+  position: relative;
+  margin: 1rem 0;
+}
+
+@media (min-width: 1200px) {
+  .mainMenu li {
+    margin: 0;
+  }
+}
+
+.mainMenu li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.2rem;
+  padding: 0.75rem 1rem;
+  display: block;
+}
+
+.mainMenu li a:hover {
+  color: #10b981;
+}
+
+.mainMenu ul {
+  display: block;
+  position: static;
+  background-color: transparent;
+  list-style: none;
+  margin: 0;
+  padding: 0.5rem 0 0.5rem 1.5rem;
+  box-shadow: none;
+  min-width: 150px;
+}
+
+@media (min-width: 1200px) {
+  .mainMenu ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #000000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 0.5rem 0;
+  }
+}
+
+.mainMenu li:hover > ul {
+  display: block;
+}
+
+.mainMenu ul li a {
+  color: #ffffff;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+}
+
+.mainMenu ul li a:hover {
+  color: #10b981;
+}
+
+.mobileMenuToggle {
+  display: block;
+}
+
+@media (min-width: 1200px) {
+  .mobileMenuToggle {
+    display: none;
+  }
+}
+
+.toggleButton {
+  background: none;
+  border: none;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.hamburger {
+  width: 24px;
+  height: 24px;
+  fill: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.hamburger.open #top {
+  transform: translate(300, 230) rotate(45deg);
+}
+
+.hamburger.open #middle {
+  opacity: 0;
+}
+
+.hamburger.open #bottom {
+  transform: translate(300, 310) rotate(-45deg);
+}
+
+.closeButton {
+  background: none;
+  border: none;
+  color: #ffffff;
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  text-align: right;
+  width: 100%;
+}
+
+.closeButton:hover {
+  color: #10b981;
+}

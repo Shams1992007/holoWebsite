@@ -1,0 +1,105 @@
+/* src/pages/Contact.module.css */
+.pageDetailsArea {
+    padding: 4rem 0;
+    margin-bottom: 6rem;
+    background: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  .row {
+    display: block; /* Changed to block for single column */
+  }
+  
+  .colLg12 {
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  .contactDetailsWrap {
+    padding: 1rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+  }
+  
+  .contactDetailsInner {
+    padding: 1rem;
+  }
+  
+  .contactMeta {
+    margin-bottom: 2rem;
+  }
+  
+  .contactTitle {
+    font-size: 2rem;
+    color: #1e3a8a;
+    margin-bottom: 1rem;
+  }
+  
+  .contactItems {
+    margin-bottom: 4rem;
+  }
+  
+  .contactRow {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .contactCol {
+    flex: 0 0 30.333%;
+    max-width: 33.333%;
+  }
+  
+  .contactAddressItem {
+    padding: 1rem;
+    background: #f9fafb;
+    border-radius: 8px;
+    text-align: center;
+    height: 100%;
+  }
+  
+  .contactAddressIcon {
+    margin-bottom: 1rem;
+  }
+  
+  .contactAddressIcon svg {
+    font-size: 2rem;
+    color: #dc2626;
+  }
+  
+  .contactAddressItem h3 {
+    font-size: 1.25rem;
+    color: #1e3a8a;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contactAddressItem p {
+    font-size: 0.875rem;
+    color: #374151;
+    margin: 0;
+  }
+  
+  .mapContainer {
+    margin-top: 2rem;
+  }
+  
+  @media (max-width: 768px) {
+    .contactTitle {
+      font-size: 1.5rem;
+    }
+  
+    .contactCol {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+  
+    .contactAddressItem h3 {
+      font-size: 1rem;
+    }
+  }

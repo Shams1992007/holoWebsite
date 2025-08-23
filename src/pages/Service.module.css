@@ -1,0 +1,117 @@
+.serviceArea {
+    padding: 4rem 0;
+  }
+  
+  .serviceRow {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  .serviceImgWrap {
+    flex: 1;
+    min-width: 300px;
+    position: relative;
+  }
+  
+  .serviceImgWrap img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .serviceImgInfo {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    background: rgba(30, 58, 138, 0.8);
+    padding: 1rem;
+    border-radius: 4px;
+  }
+  
+  .serviceImgInfoInner h1 {
+    font-size: 2rem;
+    color: #ffffff;
+    margin: 0;
+  }
+  
+  .serviceImgInfoInner h6 {
+    font-size: 1rem;
+    color: #10b981;
+    margin: 0;
+  }
+  
+  .serviceInfoWrap {
+    flex: 1;
+    min-width: 300px;
+    padding: 1rem;
+  }
+  
+  .serviceInfoWrap .sectionTitle {
+    font-size: 2rem;
+    color: #1e3a8a;
+  }
+  
+  .serviceInfoWrap p {
+    font-size: 0.875rem;
+    color: #4b5563;
+    margin-bottom: 1rem;
+  }
+  
+  .searchInput {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #d1d5db;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    color: #4b5563;
+  }
+  
+  .searchInput::placeholder {
+    color: #9ca3af;
+  }
+  
+  .btnWrapper {
+    margin-top: 1rem;
+  }
+  
+  .themeBtn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #1e3a8a;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    transition: background-color 0.3s;
+  }
+  
+  .themeBtn:hover {
+    background-color: #10b981;
+  }
+  
+  .callToActionArea {
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url('/img/bg/13.jpg') no-repeat center/cover;
+    padding: 2rem 0;
+    text-align: center;
+  }
+  
+  .callToActionInner h2 {
+    font-size: 1.5rem;
+    color: #ffffff;
+    margin: 0;
+  }
+  
+  @media (max-width: 768px) {
+    .serviceImgInfoInner h1 {
+      font-size: 1.5rem;
+    }
+  
+    .serviceInfoWrap .sectionTitle {
+      font-size: 1.5rem;
+    }
+  }

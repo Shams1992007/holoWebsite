@@ -1,0 +1,71 @@
+/* src/styles/Common.module.css */
+.breadcrumbArea {
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url('/img/bg/dhaka.jpeg') no-repeat center/cover;
+    padding: 2rem 0;
+    color: #ffffff;
+    min-height: 200px;
+  }
+  
+  .breadcrumbInner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  .sectionTitleArea {
+    margin-bottom: 1rem;
+  }
+  
+  .sectionSubtitle {
+    color: #10b981;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+  }
+  
+  .sectionTitle {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #ffffff;
+  }
+  
+  .breadcrumbList ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+  }
+  
+  .breadcrumbList li {
+    color: #ffffff;
+  }
+  
+  .breadcrumbList li a {
+    color: #10b981;
+    text-decoration: none;
+  }
+  
+  .breadcrumbList li a:hover {
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 768px) {
+    .breadcrumbInner {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .breadcrumbList {
+      margin-top: 1rem;
+    }
+  
+    .sectionTitle {
+      font-size: 1.5rem;
+    }
+  }

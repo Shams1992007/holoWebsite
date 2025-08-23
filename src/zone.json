@@ -1,0 +1,6722 @@
+[
+  {
+    "model": "zones.zone",
+    "pk": 1,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.049Z",
+      "modified_at": "2022-03-21T20:09:55.049Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33NH",
+      "area_en": "Ali and Noor Real Estate",
+      "area_bn": "আলী এন্ড নুর রিয়েল এস্টেট",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75708192,
+      "longitude": 90.35906736,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 2,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.053Z",
+      "modified_at": "2022-03-21T20:09:55.053Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33NA",
+      "area_en": "Aram Model Town",
+      "area_bn": "আরাম মডেল টাউন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75550786,
+      "longitude": 90.34432982,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 3,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.055Z",
+      "modified_at": "2022-03-21T20:09:55.055Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "",
+      "area_en": "Beribadh",
+      "area_bn": "বেড়ী বাঁধ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.83163988,
+      "longitude": 90.4148441,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 4,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.056Z",
+      "modified_at": "2022-03-21T20:09:55.056Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33NA",
+      "area_en": "Chandrima Model Town",
+      "area_bn": "চন্দ্রিমা মডেল টাউন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75872267,
+      "longitude": 90.34161052,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 5,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.057Z",
+      "modified_at": "2022-03-21T20:09:55.057Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33ND",
+      "area_en": "Chanmia Housing and Chand Housing",
+      "area_bn": "চানমিয়া হাউজিং ও চাঁদ হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75922254,
+      "longitude": 90.35749558,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 6,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.059Z",
+      "modified_at": "2022-03-21T20:09:55.059Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33NH",
+      "area_en": "Dhaka real Estate",
+      "area_bn": "ঢাকা রিয়েল এস্টট",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7565571,
+      "longitude": 90.3588621,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 7,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.060Z",
+      "modified_at": "2022-03-21T20:09:55.060Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33NA",
+      "area_en": "Dhaka Uddan Housing",
+      "area_bn": "ঢাকা উদ্যান হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76336142,
+      "longitude": 90.34300091,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 8,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.062Z",
+      "modified_at": "2022-03-21T20:09:55.062Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33NB",
+      "area_en": "Future Town",
+      "area_bn": "ফিউচার টাউন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75212411,
+      "longitude": 90.3519203,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 9,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.064Z",
+      "modified_at": "2022-03-21T20:09:55.064Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33NE",
+      "area_en": "Japan Garden City",
+      "area_bn": "জাপান গার্ডেন সিটি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7643967,
+      "longitude": 90.35815505,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 10,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.065Z",
+      "modified_at": "2022-03-21T20:09:55.065Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33NE",
+      "area_en": "Mohammadiya Housing Society",
+      "area_bn": "মোহাম্মদীয়া হাউজিং সোসাইটি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76533019,
+      "longitude": 90.35589762,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 11,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.066Z",
+      "modified_at": "2022-03-21T20:09:55.066Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33NH",
+      "area_en": "Mohammadpur Bus Stand",
+      "area_bn": "বাশবাড়ী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75874361,
+      "longitude": 90.36018921,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 12,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.067Z",
+      "modified_at": "2022-03-21T20:09:55.067Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33NA",
+      "area_en": "Nabinagar Housing",
+      "area_bn": "নবীনগর হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7601603,
+      "longitude": 90.34627318,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 13,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.068Z",
+      "modified_at": "2022-03-21T20:09:55.068Z",
+      "district": "Dhaka",
+      "region": "Adabar",
+      "ward": "33N",
+      "zone": "33ND",
+      "area_en": "Naboday Housing",
+      "area_bn": "নবোদয় হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76431337,
+      "longitude": 90.35140064,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 14,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.069Z",
+      "modified_at": "2022-03-21T20:09:55.069Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NF",
+      "area_en": "Adabar",
+      "area_bn": "আদাবর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7733471,
+      "longitude": 90.35400861,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 15,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.071Z",
+      "modified_at": "2022-03-21T20:09:55.071Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NE",
+      "area_en": "Baitul Aman Housing",
+      "area_bn": "বায়তুল আমান হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77105671,
+      "longitude": 90.35655477,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 16,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.072Z",
+      "modified_at": "2022-03-21T20:09:55.072Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NF",
+      "area_en": "Dhaka Housing",
+      "area_bn": "ঢাকা হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77574045,
+      "longitude": 90.3591827,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 17,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.073Z",
+      "modified_at": "2022-03-21T20:09:55.073Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "28NA",
+      "area_en": "Ekota Housing",
+      "area_bn": "একতা হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78128306,
+      "longitude": 90.36612821,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 18,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.074Z",
+      "modified_at": "2022-03-21T20:09:55.074Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NF",
+      "area_en": "Mehedibag Housing",
+      "area_bn": "মেহেদী বাগ হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77572411,
+      "longitude": 90.35732018,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 19,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.075Z",
+      "modified_at": "2022-03-21T20:09:55.075Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33ND",
+      "area_en": "Mohammadpur Housing",
+      "area_bn": "মোহাম্মদপুর হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.762088,
+      "longitude": 90.357861,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 20,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.076Z",
+      "modified_at": "2022-03-21T20:09:55.076Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NF",
+      "area_en": "Monsurabad Housing",
+      "area_bn": "মুনসুরাবাদ হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77344608,
+      "longitude": 90.35404914,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 21,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.077Z",
+      "modified_at": "2022-03-21T20:09:55.077Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NF",
+      "area_en": "North Adabar",
+      "area_bn": "উত্তর আদাবর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77372852,
+      "longitude": 90.3586364,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 22,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.077Z",
+      "modified_at": "2022-03-21T20:09:55.077Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NE",
+      "area_en": "Pisciculture Housing",
+      "area_bn": "পিসিকালচার হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76589654,
+      "longitude": 90.35737411,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 23,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.078Z",
+      "modified_at": "2022-03-21T20:09:55.078Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NC",
+      "area_en": "Prominent Panthoshala Housing",
+      "area_bn": "প্রমিন্যান্ট পান্থশালা হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7667297,
+      "longitude": 90.35386216,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 24,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.079Z",
+      "modified_at": "2022-03-21T20:09:55.079Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NC",
+      "area_en": "Rafiq Housing",
+      "area_bn": "রফিক হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76840518,
+      "longitude": 90.35282003,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 25,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.079Z",
+      "modified_at": "2022-03-21T20:09:55.079Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NC",
+      "area_en": "Shekhertek",
+      "area_bn": "শেখেরটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76806324,
+      "longitude": 90.35390453,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 26,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.080Z",
+      "modified_at": "2022-03-21T20:09:55.080Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NC",
+      "area_en": "Shyamoli Housing",
+      "area_bn": "শ্যামলী হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76729578,
+      "longitude": 90.35269103,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 27,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.080Z",
+      "modified_at": "2022-03-21T20:09:55.080Z",
+      "district": "Dhaka",
+      "region": "Adabar  ",
+      "ward": "30N",
+      "zone": "33NG",
+      "area_en": "Sunibir Housing",
+      "area_bn": "সুনিবিড় হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77160034,
+      "longitude": 90.3459621,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 28,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.081Z",
+      "modified_at": "2022-03-21T20:09:55.081Z",
+      "district": "Dhaka",
+      "region": "Ashulia",
+      "ward": "54N",
+      "zone": "54NE",
+      "area_en": "Ashulia",
+      "area_bn": "আশুলিয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.89982732,
+      "longitude": 90.32788385,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 29,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.082Z",
+      "modified_at": "2022-03-21T20:09:55.082Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "21N",
+      "zone": "21NA",
+      "area_en": "East Merul Badda",
+      "area_bn": "পূর্ব মেরুল বাড্ডা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77081777,
+      "longitude": 90.42650187,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 30,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.082Z",
+      "modified_at": "2022-03-21T20:09:55.082Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "21N",
+      "zone": "21ND",
+      "area_en": "Gupipara Badda",
+      "area_bn": "গুপিপারা বাড্ডা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78734719,
+      "longitude": 90.42394823,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 31,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.083Z",
+      "modified_at": "2022-03-21T20:09:55.083Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "21N",
+      "zone": "21NB",
+      "area_en": "Merul Badda",
+      "area_bn": "মেরুল বাড্ডা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77294277,
+      "longitude": 90.42232323,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 32,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.083Z",
+      "modified_at": "2022-03-21T20:09:55.083Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "21N",
+      "zone": "21NC",
+      "area_en": "Middle Badda",
+      "area_bn": "মধ্য বাড্ডা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77959457,
+      "longitude": 90.42334468,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 33,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.084Z",
+      "modified_at": "2022-03-21T20:09:55.084Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "21N",
+      "zone": "21NE",
+      "area_en": "North Badda",
+      "area_bn": "উত্তর বাড্ডা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78367311,
+      "longitude": 90.4246875,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 34,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.084Z",
+      "modified_at": "2022-03-21T20:09:55.084Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "21N",
+      "zone": "21NB",
+      "area_en": "South Badda",
+      "area_bn": "দক্ষিণ বাড্ডা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77567312,
+      "longitude": 90.42232323,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 35,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.085Z",
+      "modified_at": "2022-03-21T20:09:55.085Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "37N",
+      "zone": "37NA",
+      "area_en": "Beparipara",
+      "area_bn": "বেপারীপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7782505,
+      "longitude": 90.426497,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 36,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.085Z",
+      "modified_at": "2022-03-21T20:09:55.085Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "37N",
+      "zone": "21NC",
+      "area_en": "Middle Badda",
+      "area_bn": "মধ্যবাড্ডা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77940744,
+      "longitude": 90.42335986,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 37,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.086Z",
+      "modified_at": "2022-03-21T20:09:55.086Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "37N",
+      "zone": "37NA",
+      "area_en": "Mullapara",
+      "area_bn": "মোল্লাপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7797732,
+      "longitude": 90.4263213,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 38,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.086Z",
+      "modified_at": "2022-03-21T20:09:55.086Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "37N",
+      "zone": "37NB",
+      "area_en": "Post office road",
+      "area_bn": "পোস্ট অফিস রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7772366,
+      "longitude": 90.4308559,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 39,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.087Z",
+      "modified_at": "2022-03-21T20:09:55.087Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "37N",
+      "zone": "37NA",
+      "area_en": "Sekandarbag",
+      "area_bn": "সেকান্দারবাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77953662,
+      "longitude": 90.43111035,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 40,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.088Z",
+      "modified_at": "2022-03-21T20:09:55.088Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "37N",
+      "zone": "37NA",
+      "area_en": "Tekpara Badda",
+      "area_bn": "টেকপাড়া বাড্ডা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77984351,
+      "longitude": 90.42864425,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 41,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.089Z",
+      "modified_at": "2022-03-21T20:09:55.089Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "38N",
+      "zone": "38NA",
+      "area_en": "Hajipara North Badda",
+      "area_bn": "উত্তরবাড্ডা হাজীপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78848269,
+      "longitude": 90.43012614,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 42,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.090Z",
+      "modified_at": "2022-03-21T20:09:55.090Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "38N",
+      "zone": "38NA",
+      "area_en": "Northbadda Michritola",
+      "area_bn": "উত্তরবাড্ডা মিছরী টোলা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78951252,
+      "longitude": 90.43143037,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 43,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.092Z",
+      "modified_at": "2022-03-21T20:09:55.092Z",
+      "district": "Dhaka",
+      "region": "Badda",
+      "ward": "38N",
+      "zone": "38NA",
+      "area_en": "Northbadda Purbopara (Abdullahbag)",
+      "area_bn": "উত্তরবাড্ডা পূর্বপাড়া (আব্দুল্লাহবাগ)",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78943398,
+      "longitude": 90.43138746,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 44,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.093Z",
+      "modified_at": "2022-03-21T20:09:55.093Z",
+      "district": "Dhaka",
+      "region": "Banani",
+      "ward": "19N",
+      "zone": "19NB",
+      "area_en": "Banani 11",
+      "area_bn": "বনাানি ১১",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7913695,
+      "longitude": 90.4010105,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 45,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.094Z",
+      "modified_at": "2022-03-21T20:09:55.094Z",
+      "district": "Dhaka",
+      "region": "Banani",
+      "ward": "19N",
+      "zone": "19NA",
+      "area_en": "Banani 11 Lake Side",
+      "area_bn": "বনাানি ১১",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7904761,
+      "longitude": 90.4089283,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 46,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.095Z",
+      "modified_at": "2022-03-21T20:09:55.095Z",
+      "district": "Dhaka",
+      "region": "Banani",
+      "ward": "19N",
+      "zone": "19A",
+      "area_en": "Banani DOHS",
+      "area_bn": "বনানি DOHS",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79428827,
+      "longitude": 90.39853031,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 47,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.096Z",
+      "modified_at": "2022-03-21T20:09:55.096Z",
+      "district": "Dhaka",
+      "region": "Banani",
+      "ward": "19N",
+      "zone": "19NB",
+      "area_en": "Kakoli",
+      "area_bn": "কাকলি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7900886,
+      "longitude": 90.3999502,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 48,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.097Z",
+      "modified_at": "2022-03-21T20:09:55.097Z",
+      "district": "Dhaka",
+      "region": "Banani",
+      "ward": "19N",
+      "zone": "19A",
+      "area_en": "Kamal Ataturk Av.",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7939324,
+      "longitude": 90.4062146,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 49,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.098Z",
+      "modified_at": "2022-03-21T20:09:55.098Z",
+      "district": "Dhaka",
+      "region": "Cantonment",
+      "ward": "15N",
+      "zone": "15ND",
+      "area_en": "Balughat",
+      "area_bn": "বালুঘাট",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82972249,
+      "longitude": 90.39084354,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 50,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.099Z",
+      "modified_at": "2022-03-21T20:09:55.099Z",
+      "district": "Dhaka",
+      "region": "Cantonment",
+      "ward": "15N",
+      "zone": "15ND",
+      "area_en": "Barontek",
+      "area_bn": "বারনটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.83089522,
+      "longitude": 90.38562758,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 51,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.099Z",
+      "modified_at": "2022-03-21T20:09:55.099Z",
+      "district": "Dhaka",
+      "region": "Cantonment",
+      "ward": "15N",
+      "zone": "15NB",
+      "area_en": "Bhashantek",
+      "area_bn": "ভাষানটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.81145251,
+      "longitude": 90.39228031,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 52,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.100Z",
+      "modified_at": "2022-03-21T20:09:55.100Z",
+      "district": "Dhaka",
+      "region": "Cantonment",
+      "ward": "15N",
+      "zone": "15NC",
+      "area_en": "Cantonment",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8165185,
+      "longitude": 90.3986994,
+      "city_corporation": ""
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 53,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.101Z",
+      "modified_at": "2022-03-21T20:09:55.101Z",
+      "district": "Dhaka",
+      "region": "Cantonment",
+      "ward": "15N",
+      "zone": "15NB",
+      "area_en": "Dhamalkot",
+      "area_bn": "ধামালকোট",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80524899,
+      "longitude": 90.38926958,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 54,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.101Z",
+      "modified_at": "2022-03-21T20:09:55.101Z",
+      "district": "Dhaka",
+      "region": "Cantonment",
+      "ward": "15N",
+      "zone": "15ND",
+      "area_en": "Manikdi",
+      "area_bn": "মানিকদি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82728834,
+      "longitude": 90.39306698,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 55,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.102Z",
+      "modified_at": "2022-03-21T20:09:55.102Z",
+      "district": "Dhaka",
+      "region": "Cantonment",
+      "ward": "15N",
+      "zone": "15NA",
+      "area_en": "Matikata",
+      "area_bn": "মাটিকাটা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82035434,
+      "longitude": 90.38994823,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 56,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.102Z",
+      "modified_at": "2022-03-21T20:09:55.102Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "44N",
+      "zone": "48NA",
+      "area_en": "Amaia",
+      "area_bn": "আমাইয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85062736,
+      "longitude": 90.45004288,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 57,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.103Z",
+      "modified_at": "2022-03-21T20:09:55.103Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "44N",
+      "zone": "48NA",
+      "area_en": "Betuli",
+      "area_bn": "বেতুলী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8566967,
+      "longitude": 90.45245208,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 58,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.104Z",
+      "modified_at": "2022-03-21T20:09:55.104Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "44N",
+      "zone": "44NC",
+      "area_en": "Bharardi",
+      "area_bn": "ভারারদি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86076035,
+      "longitude": 90.46156376,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 59,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.104Z",
+      "modified_at": "2022-03-21T20:09:55.104Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "44N",
+      "zone": "45NA",
+      "area_en": "Chamurkhan",
+      "area_bn": "চামুরখান",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87350105,
+      "longitude": 90.44860215,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 60,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.105Z",
+      "modified_at": "2022-03-21T20:09:55.105Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "44N",
+      "zone": "44NA",
+      "area_en": "Dobadia",
+      "area_bn": "দোবাদিয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86235389,
+      "longitude": 90.43997685,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 61,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.105Z",
+      "modified_at": "2022-03-21T20:09:55.105Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "44N",
+      "zone": "44NC",
+      "area_en": "Kachkura",
+      "area_bn": "কাঁচকুড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86049459,
+      "longitude": 90.46938254,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 62,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.106Z",
+      "modified_at": "2022-03-21T20:09:55.106Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "44N",
+      "zone": "44NB",
+      "area_en": "Palashia",
+      "area_bn": "পলাশিয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86651988,
+      "longitude": 90.4623792,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 63,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.106Z",
+      "modified_at": "2022-03-21T20:09:55.106Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "44N",
+      "zone": "44NB",
+      "area_en": "Poradia",
+      "area_bn": "পোড়াদিয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86605037,
+      "longitude": 90.45954372,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 64,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.107Z",
+      "modified_at": "2022-03-21T20:09:55.107Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "44N",
+      "zone": "44NC",
+      "area_en": "Ratuti",
+      "area_bn": "রাতুটি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85752064,
+      "longitude": 90.46444327,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 65,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.108Z",
+      "modified_at": "2022-03-21T20:09:55.108Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "47N",
+      "zone": "47NB",
+      "area_en": "Chalabon",
+      "area_bn": "চালাবন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86535683,
+      "longitude": 90.41820896,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 66,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.108Z",
+      "modified_at": "2022-03-21T20:09:55.108Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "47N",
+      "zone": "46NA",
+      "area_en": "Faydabad",
+      "area_bn": "ফায়দাবাদ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87819256,
+      "longitude": 90.41362687,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 67,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.109Z",
+      "modified_at": "2022-03-21T20:09:55.109Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "47N",
+      "zone": "47NB",
+      "area_en": "Moshair",
+      "area_bn": "মৌশাইর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87112389,
+      "longitude": 90.42095896,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 68,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.109Z",
+      "modified_at": "2022-03-21T20:09:55.109Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "48N",
+      "zone": "48NB",
+      "area_en": "Anol",
+      "area_bn": "আনল",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86463372,
+      "longitude": 90.43190531,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 69,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.110Z",
+      "modified_at": "2022-03-21T20:09:55.110Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "48N",
+      "zone": "48NE",
+      "area_en": "Barua",
+      "area_bn": "বরুয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.83882745,
+      "longitude": 90.45301958,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 70,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.110Z",
+      "modified_at": "2022-03-21T20:09:55.110Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "48N",
+      "zone": "48NC",
+      "area_en": "Dakkhinkhan",
+      "area_bn": "দক্ষিণখান",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.84936411,
+      "longitude": 90.4246875,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 71,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.111Z",
+      "modified_at": "2022-03-21T20:09:55.111Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "48N",
+      "zone": "48ND",
+      "area_en": "Holan",
+      "area_bn": "হলান",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85026855,
+      "longitude": 90.43345896,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 72,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.111Z",
+      "modified_at": "2022-03-21T20:09:55.111Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "48N",
+      "zone": "48ND",
+      "area_en": "Jamun",
+      "area_bn": "জামুন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8513543,
+      "longitude": 90.44003406,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 73,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.112Z",
+      "modified_at": "2022-03-21T20:09:55.112Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "48N",
+      "zone": "48NA",
+      "area_en": "Sonarkhola",
+      "area_bn": "সোনার খোলা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85563373,
+      "longitude": 90.44482323,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 74,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.112Z",
+      "modified_at": "2022-03-21T20:09:55.112Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "49N",
+      "zone": "49NA",
+      "area_en": "Ashkona",
+      "area_bn": "আশকোনা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85263373,
+      "longitude": 90.4149874,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 75,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.113Z",
+      "modified_at": "2022-03-21T20:09:55.113Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "49N",
+      "zone": "49NB",
+      "area_en": "Gawair",
+      "area_bn": "গাওয়াইর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85953816,
+      "longitude": 90.41583396,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 76,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.114Z",
+      "modified_at": "2022-03-21T20:09:55.114Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "49N",
+      "zone": "49NC",
+      "area_en": "Kawler",
+      "area_bn": "কাওলার",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8457408,
+      "longitude": 90.4181098,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 77,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.114Z",
+      "modified_at": "2022-03-21T20:09:55.114Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "50N",
+      "zone": "50NA",
+      "area_en": "Irshal",
+      "area_bn": "ইরশাল",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85795848,
+      "longitude": 90.40661752,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 78,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.115Z",
+      "modified_at": "2022-03-21T20:09:55.115Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "50N",
+      "zone": "50NB",
+      "area_en": "Mollartek",
+      "area_bn": "মোল্লারটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85981225,
+      "longitude": 90.41045273,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 79,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.115Z",
+      "modified_at": "2022-03-21T20:09:55.115Z",
+      "district": "Dhaka",
+      "region": "Dakkhinkhan",
+      "ward": "53N",
+      "zone": "47NB",
+      "area_en": "Chandalvog",
+      "area_bn": "চন্ডালভোগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86998909,
+      "longitude": 90.42202333,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 80,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.116Z",
+      "modified_at": "2022-03-21T20:09:55.116Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "10N",
+      "zone": "10NC",
+      "area_en": "Baten Nagar",
+      "area_bn": "বাতেন নগর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78645256,
+      "longitude": 90.34891604,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 81,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.117Z",
+      "modified_at": "2022-03-21T20:09:55.117Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "10N",
+      "zone": "12NC",
+      "area_en": "Darus Salam",
+      "area_bn": "দারুস সালাম",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79200883,
+      "longitude": 90.35374114,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 82,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.117Z",
+      "modified_at": "2022-03-21T20:09:55.117Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "10N",
+      "zone": "10ND",
+      "area_en": "Goidartek",
+      "area_bn": "গৈদারটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77706776,
+      "longitude": 90.35040531,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 83,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.118Z",
+      "modified_at": "2022-03-21T20:09:55.118Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "10N",
+      "zone": "10NC",
+      "area_en": "Lalkuthi",
+      "area_bn": "লালকুঠী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78939365,
+      "longitude": 90.34536614,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 84,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.118Z",
+      "modified_at": "2022-03-21T20:09:55.118Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "10N",
+      "zone": "10NA",
+      "area_en": "Mazar Road",
+      "area_bn": "মাজার রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79183736,
+      "longitude": 90.34848041,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 85,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.119Z",
+      "modified_at": "2022-03-21T20:09:55.119Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "10N",
+      "zone": "10NC",
+      "area_en": "Mirpur 1st Colony",
+      "area_bn": "মিরপুর ১নং কলোনি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7853642,
+      "longitude": 90.34551958,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 86,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.120Z",
+      "modified_at": "2022-03-21T20:09:55.120Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "10N",
+      "zone": "10NB",
+      "area_en": "Mirpur 2nd Colony",
+      "area_bn": "মিরপুর ২নং কলোনি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79240346,
+      "longitude": 90.34975187,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 87,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.120Z",
+      "modified_at": "2022-03-21T20:09:55.120Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "10N",
+      "zone": "10NB",
+      "area_en": "Mirpur 3rd Colony",
+      "area_bn": "মিরপুর ৩নং কলোনি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79369272,
+      "longitude": 90.34817677,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 88,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.121Z",
+      "modified_at": "2022-03-21T20:09:55.121Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9ND",
+      "area_en": "Amin Bazar Bridge",
+      "area_bn": "আমিনবাজার সেতু",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78453829,
+      "longitude": 90.3353125,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 89,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.121Z",
+      "modified_at": "2022-03-21T20:09:55.121Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "10NC",
+      "area_en": "Anandanagar",
+      "area_bn": "আনন্দনগর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78353829,
+      "longitude": 90.34989458,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 90,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.122Z",
+      "modified_at": "2022-03-21T20:09:55.122Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9NC",
+      "area_en": "Bagbari",
+      "area_bn": "বাগবাড়ি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78428829,
+      "longitude": 90.34083396,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 91,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.123Z",
+      "modified_at": "2022-03-21T20:09:55.123Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9NC",
+      "area_en": "Baroanipara",
+      "area_bn": "বারয়ানিপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78410446,
+      "longitude": 90.34164176,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 92,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.123Z",
+      "modified_at": "2022-03-21T20:09:55.123Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9NB",
+      "area_en": "Bordhonbari",
+      "area_bn": "বর্ধনবাড়ী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79225883,
+      "longitude": 90.34421968,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 93,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.124Z",
+      "modified_at": "2022-03-21T20:09:55.124Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9NC",
+      "area_en": "Charanipara",
+      "area_bn": "ছারানিপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78430793,
+      "longitude": 90.34135541,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 94,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.124Z",
+      "modified_at": "2022-03-21T20:09:55.124Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9NA",
+      "area_en": "Diabari Mirpur",
+      "area_bn": "দিয়াবাড়ী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79783735,
+      "longitude": 90.34196968,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 95,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.125Z",
+      "modified_at": "2022-03-21T20:09:55.125Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9NC",
+      "area_en": "Gabtoli Bus Stand",
+      "area_bn": "গাবতলী বাস স্ট্যান্ড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78315347,
+      "longitude": 90.34286614,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 96,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.125Z",
+      "modified_at": "2022-03-21T20:09:55.125Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9ND",
+      "area_en": "Gabtoli Gorur Hat",
+      "area_bn": "গাবতলী গরুর হাট",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78329811,
+      "longitude": 90.33789458,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 97,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.126Z",
+      "modified_at": "2022-03-21T20:09:55.126Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9ND",
+      "area_en": "Gabtoli Sweeper Colony",
+      "area_bn": "গাবতলী সুইপার কলোনি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78092311,
+      "longitude": 90.34000187,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 98,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.126Z",
+      "modified_at": "2022-03-21T20:09:55.126Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9NA",
+      "area_en": "Golartek",
+      "area_bn": "গোলারটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7945498,
+      "longitude": 90.34126764,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 99,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.127Z",
+      "modified_at": "2022-03-21T20:09:55.127Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9NB",
+      "area_en": "Harirampur",
+      "area_bn": "হরিরামপুর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7907981,
+      "longitude": 90.34165531,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 100,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.127Z",
+      "modified_at": "2022-03-21T20:09:55.127Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9NA",
+      "area_en": "Jahurabad",
+      "area_bn": "জাহুরাবাদ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79554809,
+      "longitude": 90.34071968,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 101,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.128Z",
+      "modified_at": "2022-03-21T20:09:55.128Z",
+      "district": "Dhaka",
+      "region": "Darussalam",
+      "ward": "9N",
+      "zone": "9NE",
+      "area_en": "Kotbari",
+      "area_bn": "কোটবাড়ি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78516329,
+      "longitude": 90.33884468,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 102,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.129Z",
+      "modified_at": "2022-03-21T20:09:55.129Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "18N",
+      "zone": "18NB",
+      "area_en": "Baridhara",
+      "area_bn": "বারিধারা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80116326,
+      "longitude": 90.42049114,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 103,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.129Z",
+      "modified_at": "2022-03-21T20:09:55.129Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "18N",
+      "zone": "18NA",
+      "area_en": "Baridhara DOHS",
+      "area_bn": "বারিধারা DOHS",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.81321232,
+      "longitude": 90.41289458,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 104,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.130Z",
+      "modified_at": "2022-03-21T20:09:55.130Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "18N",
+      "zone": "18NA",
+      "area_en": "Kalachandpur",
+      "area_bn": "কালাচাঁদপুর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80931268,
+      "longitude": 90.41676578,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 105,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.130Z",
+      "modified_at": "2022-03-21T20:09:55.130Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "18N",
+      "zone": "18NA",
+      "area_en": "Nadda",
+      "area_bn": "নদ্দা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80941977,
+      "longitude": 90.4212791,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 106,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.131Z",
+      "modified_at": "2022-03-21T20:09:55.131Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "18N",
+      "zone": "18NB",
+      "area_en": "Notun Bazar",
+      "area_bn": "নতুনবাঁজার",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80092308,
+      "longitude": 90.42605177,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 107,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.131Z",
+      "modified_at": "2022-03-21T20:09:55.131Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "18N",
+      "zone": "39NA",
+      "area_en": "Shahjadpur",
+      "area_bn": "শাহজাদপুর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79243775,
+      "longitude": 90.42450239,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 108,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.132Z",
+      "modified_at": "2022-03-21T20:09:55.132Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "19N",
+      "zone": "19NB",
+      "area_en": "Gulshan 1",
+      "area_bn": "গুলশান ১",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78044859,
+      "longitude": 90.41673301,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 109,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.132Z",
+      "modified_at": "2022-03-21T20:09:55.132Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "19N",
+      "zone": "19NB",
+      "area_en": "Gulshan 2",
+      "area_bn": "গুলশান ২",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79475888,
+      "longitude": 90.41428323,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 110,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.133Z",
+      "modified_at": "2022-03-21T20:09:55.133Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "19N",
+      "zone": "20NB",
+      "area_en": "Korail",
+      "area_bn": "করাইল",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78541329,
+      "longitude": 90.41049114,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 111,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.133Z",
+      "modified_at": "2022-03-21T20:09:55.133Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "20N",
+      "zone": "20NB",
+      "area_en": "Mohakhali",
+      "area_bn": "মহাখালী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78115348,
+      "longitude": 90.40264458,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 112,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.134Z",
+      "modified_at": "2022-03-21T20:09:55.134Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "20N",
+      "zone": "",
+      "area_en": "Mohakhali DOHS",
+      "area_bn": "মহাখালী DOHS",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77940348,
+      "longitude": 90.39420896,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 113,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.135Z",
+      "modified_at": "2022-03-21T20:09:55.135Z",
+      "district": "Dhaka",
+      "region": "Gulshan",
+      "ward": "20N",
+      "zone": "20NA",
+      "area_en": "Niketon",
+      "area_bn": "নিকেতন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7730264,
+      "longitude": 90.4058048,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 114,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.135Z",
+      "modified_at": "2022-03-21T20:09:55.135Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "14N",
+      "zone": "14NA",
+      "area_en": "East Kazipara",
+      "area_bn": "কাজীপাড়া (র্পূব)",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79977845,
+      "longitude": 90.37484468,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 115,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.136Z",
+      "modified_at": "2022-03-21T20:09:55.136Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "14N",
+      "zone": "14NA",
+      "area_en": "East Shewrapara",
+      "area_bn": "শেওড়াপাড়া (র্পূব)",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79414364,
+      "longitude": 90.37614458,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 116,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.136Z",
+      "modified_at": "2022-03-21T20:09:55.136Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "14N",
+      "zone": "32NA",
+      "area_en": "Mirpur Road Mdpur side",
+      "area_bn": "মিরপুর রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76720977,
+      "longitude": 90.36960541,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 117,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.137Z",
+      "modified_at": "2022-03-21T20:09:55.137Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "14N",
+      "zone": "14NC",
+      "area_en": "Rokeya Sarani",
+      "area_bn": "রোকেয়া স্মরণী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79151864,
+      "longitude": 90.37548041,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 118,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.137Z",
+      "modified_at": "2022-03-21T20:09:55.137Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "14N",
+      "zone": "14NB",
+      "area_en": "Senpara Parbata\n",
+      "area_bn": "সেনপাড়া র্পবতা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80488642,
+      "longitude": 90.36955177,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 119,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.138Z",
+      "modified_at": "2022-03-21T20:09:55.138Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "14N",
+      "zone": "14NB",
+      "area_en": "West Kazipara",
+      "area_bn": "কাজীপাড়া (পশ্চিম)",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7972562,
+      "longitude": 90.37019823,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 120,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.138Z",
+      "modified_at": "2022-03-21T20:09:55.138Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "16N",
+      "zone": "16NB",
+      "area_en": "Ibrahimpur",
+      "area_bn": "ইব্রাহিমপুর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79459717,
+      "longitude": 90.3824375,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 121,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.139Z",
+      "modified_at": "2022-03-21T20:09:55.139Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "16N",
+      "zone": "16NC",
+      "area_en": "Kafrul",
+      "area_bn": "কাফরুল",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78866328,
+      "longitude": 90.39125187,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 122,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.139Z",
+      "modified_at": "2022-03-21T20:09:55.139Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "16N",
+      "zone": "16NB",
+      "area_en": "Kochukhet",
+      "area_bn": "কচুক্ষেত",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79223919,
+      "longitude": 90.38863385,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 123,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.140Z",
+      "modified_at": "2022-03-21T20:09:55.140Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "16N",
+      "zone": "16NB",
+      "area_en": "North Kafrul",
+      "area_bn": "উত্তর কাফরুল",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79202927,
+      "longitude": 90.38476951,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 124,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.141Z",
+      "modified_at": "2022-03-21T20:09:55.141Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "16N",
+      "zone": "16NC",
+      "area_en": "South Kafrul",
+      "area_bn": "দক্ষিণ কাফরুল",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78664193,
+      "longitude": 90.38518334,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 125,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.141Z",
+      "modified_at": "2022-03-21T20:09:55.141Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "16N",
+      "zone": "14NA",
+      "area_en": "West Kafrul",
+      "area_bn": "পশ্চিম কাফরুল",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78658212,
+      "longitude": 90.37619823,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 126,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.142Z",
+      "modified_at": "2022-03-21T20:09:55.142Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "4N",
+      "zone": "4NA",
+      "area_en": "Mirpur 13",
+      "area_bn": "মিরপুর ১৩",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80532422,
+      "longitude": 90.37680876,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 127,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.142Z",
+      "modified_at": "2022-03-21T20:09:55.142Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "4N",
+      "zone": "4NA",
+      "area_en": "Mirpur 14",
+      "area_bn": "মিরপুর ১৪",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79849938,
+      "longitude": 90.38761674,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 128,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.143Z",
+      "modified_at": "2022-03-21T20:09:55.143Z",
+      "district": "Dhaka",
+      "region": "Kafrul",
+      "ward": "4N",
+      "zone": "4NB",
+      "area_en": "Mirpur 15",
+      "area_bn": "মিরপুর ১৫",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80795756,
+      "longitude": 90.38323048,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 129,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.143Z",
+      "modified_at": "2022-03-21T20:09:55.143Z",
+      "district": "Dhaka",
+      "region": "Kamrangirchar",
+      "ward": "34N",
+      "zone": "34ND",
+      "area_en": "Sultanganj",
+      "area_bn": "সুলতানগঞ্জ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.72767165,
+      "longitude": 90.36092723,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 130,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.144Z",
+      "modified_at": "2022-03-21T20:09:55.144Z",
+      "district": "Dhaka",
+      "region": "Khilgaon",
+      "ward": "23N",
+      "zone": "23NA",
+      "area_en": "Chowdhury Para",
+      "area_bn": "চৌধুরীপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75392316,
+      "longitude": 90.41938385,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 131,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.144Z",
+      "modified_at": "2022-03-21T20:09:55.144Z",
+      "district": "Dhaka",
+      "region": "Khilgaon",
+      "ward": "23N",
+      "zone": "23NB",
+      "area_en": "Khilgaon",
+      "area_bn": "খিলগাঁও",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74892317,
+      "longitude": 90.42954104,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 132,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.145Z",
+      "modified_at": "2022-03-21T20:09:55.145Z",
+      "district": "Dhaka",
+      "region": "Khilgaon",
+      "ward": "23N",
+      "zone": "23NC",
+      "area_en": "Khilgaon Taltola",
+      "area_bn": "খিলগাঁও তালতলা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75195979,
+      "longitude": 90.42484468,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 133,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.146Z",
+      "modified_at": "2022-03-21T20:09:55.146Z",
+      "district": "Dhaka",
+      "region": "Khilgaon",
+      "ward": "23N",
+      "zone": "23ND",
+      "area_en": "Malibag Bazar",
+      "area_bn": "মালিবাগ বাজার",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75004817,
+      "longitude": 90.4143125,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 134,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.146Z",
+      "modified_at": "2022-03-21T20:09:55.146Z",
+      "district": "Dhaka",
+      "region": "Khilkhet",
+      "ward": "17N",
+      "zone": "17NE",
+      "area_en": "Joar Shahara",
+      "area_bn": "জোর শাহারা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.81491324,
+      "longitude": 90.41678031,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 135,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.147Z",
+      "modified_at": "2022-03-21T20:09:55.147Z",
+      "district": "Dhaka",
+      "region": "Khilkhet",
+      "ward": "17N",
+      "zone": "17NA",
+      "area_en": "Khilkhet",
+      "area_bn": "খিলখেত",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8291534,
+      "longitude": 90.42012687,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 136,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.147Z",
+      "modified_at": "2022-03-21T20:09:55.147Z",
+      "district": "Dhaka",
+      "region": "Khilkhet",
+      "ward": "17N",
+      "zone": "17ND",
+      "area_en": "Kuratoli",
+      "area_bn": "কুুরাতলি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82142304,
+      "longitude": 90.42371968,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 137,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.148Z",
+      "modified_at": "2022-03-21T20:09:55.148Z",
+      "district": "Dhaka",
+      "region": "Khilkhet",
+      "ward": "17N",
+      "zone": "17NA",
+      "area_en": "Moddhopara",
+      "area_bn": "মধ্যপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8275769,
+      "longitude": 90.4238624,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 138,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.149Z",
+      "modified_at": "2022-03-21T20:09:55.149Z",
+      "district": "Dhaka",
+      "region": "Khilkhet",
+      "ward": "17N",
+      "zone": "17NB",
+      "area_en": "Nikunja 1",
+      "area_bn": "নিকুঞ্জ ১",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82528822,
+      "longitude": 90.4187374,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 139,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.149Z",
+      "modified_at": "2022-03-21T20:09:55.149Z",
+      "district": "Dhaka",
+      "region": "Khilkhet",
+      "ward": "17N",
+      "zone": "17NC",
+      "area_en": "Nikunja 2",
+      "area_bn": "নিকুঞ্জ ২",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.83270969,
+      "longitude": 90.41723041,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 140,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.150Z",
+      "modified_at": "2022-03-21T20:09:55.150Z",
+      "district": "Dhaka",
+      "region": "Khilkhet",
+      "ward": "17N",
+      "zone": "17NE",
+      "area_en": "Olipara",
+      "area_bn": "অলিপারা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.81299898,
+      "longitude": 90.4173125,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 141,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.150Z",
+      "modified_at": "2022-03-21T20:09:55.150Z",
+      "district": "Dhaka",
+      "region": "Khilkhet",
+      "ward": "17N",
+      "zone": "17NA",
+      "area_en": "Tanpara",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82870247,
+      "longitude": 90.41541604,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 142,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.151Z",
+      "modified_at": "2022-03-21T20:09:55.151Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "11N",
+      "zone": "11NB",
+      "area_en": "Kallyanpur",
+      "area_bn": "কল্যানপুর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78090348,
+      "longitude": 90.35842677,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 143,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.152Z",
+      "modified_at": "2022-03-21T20:09:55.152Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "11N",
+      "zone": "11NA",
+      "area_en": "Middle Paikpara",
+      "area_bn": "মধ্য পাইকপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79047218,
+      "longitude": 90.36028406,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 144,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.152Z",
+      "modified_at": "2022-03-21T20:09:55.152Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "11N",
+      "zone": "11NA",
+      "area_en": "Paikpara",
+      "area_bn": "পাইকপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7890481,
+      "longitude": 90.35825187,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 145,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.153Z",
+      "modified_at": "2022-03-21T20:09:55.153Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "12N",
+      "zone": "12NA",
+      "area_en": "Ahmed Nagar",
+      "area_bn": "আহম্মদনগর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79382754,
+      "longitude": 90.35880177,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 146,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.153Z",
+      "modified_at": "2022-03-21T20:09:55.153Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "12N",
+      "zone": "12NA",
+      "area_en": "Shah Ali Bag",
+      "area_bn": "শাহআলীবাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79715345,
+      "longitude": 90.35535541,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 147,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.154Z",
+      "modified_at": "2022-03-21T20:09:55.154Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "12N",
+      "zone": "12NC",
+      "area_en": "South Bishil",
+      "area_bn": "দক্ষিণ বিশিল",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79600882,
+      "longitude": 90.3520625,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 148,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.155Z",
+      "modified_at": "2022-03-21T20:09:55.155Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "12N",
+      "zone": "12ND",
+      "area_en": "Tolarbag",
+      "area_bn": "টোলারবাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78955792,
+      "longitude": 90.35048041,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 149,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.155Z",
+      "modified_at": "2022-03-21T20:09:55.155Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "13N",
+      "zone": "13NB",
+      "area_en": "Borobag",
+      "area_bn": "বড়বাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80098918,
+      "longitude": 90.36048041,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 150,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.156Z",
+      "modified_at": "2022-03-21T20:09:55.156Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "13N",
+      "zone": "13NA",
+      "area_en": "East Pirerbag",
+      "area_bn": "র্পূব পীরেরবাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.790107,
+      "longitude": 90.36620896,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 151,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.157Z",
+      "modified_at": "2022-03-21T20:09:55.157Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "13N",
+      "zone": "13NB",
+      "area_en": "Monipur",
+      "area_bn": "মনীপুর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80046234,
+      "longitude": 90.36579104,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 152,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.157Z",
+      "modified_at": "2022-03-21T20:09:55.157Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "13N",
+      "zone": "13NA",
+      "area_en": "North Pirerbag",
+      "area_bn": "উত্তর পীরেরবাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79190346,
+      "longitude": 90.36745896,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 153,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.158Z",
+      "modified_at": "2022-03-21T20:09:55.158Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "13N",
+      "zone": "13NA",
+      "area_en": "South Pirerbag",
+      "area_bn": "দক্ষিণ পীরেরবাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78486683,
+      "longitude": 90.3688125,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 154,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.158Z",
+      "modified_at": "2022-03-21T20:09:55.158Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "13N",
+      "zone": "13NA",
+      "area_en": "West Pirerbag",
+      "area_bn": "পশ্চিম পীরেরবাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78894011,
+      "longitude": 90.36404479,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 155,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.159Z",
+      "modified_at": "2022-03-21T20:09:55.159Z",
+      "district": "Dhaka",
+      "region": "Mirpur",
+      "ward": "13N",
+      "zone": "14NA",
+      "area_en": "West Shewrapara",
+      "area_bn": "পশ্চিম শেওড়াপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79117933,
+      "longitude": 90.37271437,
+      "city_corporation": "4"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 156,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.160Z",
+      "modified_at": "2022-03-21T20:09:55.160Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "29N",
+      "zone": "29NA",
+      "area_en": "Jahuri Moholla",
+      "area_bn": "জুহুরী মহল্লা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77087181,
+      "longitude": 90.36267017,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 157,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.160Z",
+      "modified_at": "2022-03-21T20:09:55.160Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "29N",
+      "zone": "29NA",
+      "area_en": "Metro Politan Housing",
+      "area_bn": "মেট্রো পলিটন হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77194911,
+      "longitude": 90.3626213,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 158,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.161Z",
+      "modified_at": "2022-03-21T20:09:55.161Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "30N",
+      "zone": "33ND",
+      "area_en": "Nobodoy Housing",
+      "area_bn": "নবোদয় হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76395788,
+      "longitude": 90.35145522,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 159,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.161Z",
+      "modified_at": "2022-03-21T20:09:55.161Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "31N",
+      "zone": "31ND",
+      "area_en": "Asad Avenue",
+      "area_bn": "আসাদ এভিনিউ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75975394,
+      "longitude": 90.3663537,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 160,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.162Z",
+      "modified_at": "2022-03-21T20:09:55.162Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "31N",
+      "zone": "31NC",
+      "area_en": "Aurangzeb Road",
+      "area_bn": "আওরঙ্গজেব রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76309973,
+      "longitude": 90.36721813,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 161,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.162Z",
+      "modified_at": "2022-03-21T20:09:55.162Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "31N",
+      "zone": "31ND",
+      "area_en": "Azam Road",
+      "area_bn": "আযম রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75981642,
+      "longitude": 90.36432303,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 162,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.163Z",
+      "modified_at": "2022-03-21T20:09:55.163Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "31N",
+      "zone": "31ND",
+      "area_en": "Kazi Nazrul Islam Road Block-E",
+      "area_bn": "কাজী নজরুল ইসলাম রোড ব্লক-ই",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75673459,
+      "longitude": 90.36396235,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 163,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.164Z",
+      "modified_at": "2022-03-21T20:09:55.164Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "31N",
+      "zone": "31NB",
+      "area_en": "Nurjahan Road",
+      "area_bn": "নুরজাহান রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76066605,
+      "longitude": 90.36174151,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 164,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.164Z",
+      "modified_at": "2022-03-21T20:09:55.164Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "31N",
+      "zone": "31NB",
+      "area_en": "Razia Sultana Road",
+      "area_bn": "রাজিয়া সুলতানা রোড়",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76084185,
+      "longitude": 90.36219553,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 165,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.165Z",
+      "modified_at": "2022-03-21T20:09:55.165Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "31N",
+      "zone": "31NC",
+      "area_en": "Shahjahan Road",
+      "area_bn": "শাহাজাহান রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76234413,
+      "longitude": 90.3659243,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 166,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.165Z",
+      "modified_at": "2022-03-21T20:09:55.165Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "31N",
+      "zone": "31NC",
+      "area_en": "Sher Shah Suri Road",
+      "area_bn": "শেরাশাহসুরী রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76152911,
+      "longitude": 90.36500544,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 167,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.166Z",
+      "modified_at": "2022-03-21T20:09:55.166Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "31N",
+      "zone": "31NA",
+      "area_en": "Taj Mahal Road",
+      "area_bn": "তাজমহল রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76494422,
+      "longitude": 90.36217206,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 168,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.166Z",
+      "modified_at": "2022-03-21T20:09:55.166Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "31N",
+      "zone": "31ND",
+      "area_en": "Zakir Hossain Road",
+      "area_bn": "জাকির হোসেন রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75830086,
+      "longitude": 90.36685124,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 169,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.167Z",
+      "modified_at": "2022-03-21T20:09:55.167Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "32NA",
+      "area_en": "Babar Road",
+      "area_bn": "বাবর রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7701844,
+      "longitude": 90.36624173,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 170,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.167Z",
+      "modified_at": "2022-03-21T20:09:55.167Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "32NA",
+      "area_en": "Gajanabi Road",
+      "area_bn": "গজনবী রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76737006,
+      "longitude": 90.36704692,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 171,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.168Z",
+      "modified_at": "2022-03-21T20:09:55.168Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "32NA",
+      "area_en": "Humayan Road",
+      "area_bn": "হুমায়ন রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76701911,
+      "longitude": 90.363457,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 172,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.169Z",
+      "modified_at": "2022-03-21T20:09:55.169Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "32NB",
+      "area_en": "Iqbal Road",
+      "area_bn": "ইকবাল রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76098831,
+      "longitude": 90.36952221,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 173,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.169Z",
+      "modified_at": "2022-03-21T20:09:55.169Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "29NA",
+      "area_en": "Khilji Road",
+      "area_bn": "খিলজী রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77274917,
+      "longitude": 90.36553126,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 174,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.170Z",
+      "modified_at": "2022-03-21T20:09:55.170Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "32ND",
+      "area_en": "Lalmatia Block-A",
+      "area_bn": "লালমাটিয়া ব্লক-এ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75710155,
+      "longitude": 90.37378728,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 175,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.170Z",
+      "modified_at": "2022-03-21T20:09:55.170Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "32NC",
+      "area_en": "Lalmatia Block-B",
+      "area_bn": "লালমাটিয়া ব্লক-বি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75733427,
+      "longitude": 90.36894564,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 176,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.171Z",
+      "modified_at": "2022-03-21T20:09:55.171Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "32NE",
+      "area_en": "Lalmatia Block-C",
+      "area_bn": "লালমাটিয়া ব্লক-সি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75512771,
+      "longitude": 90.37090118,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 177,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.171Z",
+      "modified_at": "2022-03-21T20:09:55.171Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "32NE",
+      "area_en": "Lalmatia Block-D",
+      "area_bn": "লালমাটিয়া ব্লক-ডি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75370985,
+      "longitude": 90.36838798,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 178,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.172Z",
+      "modified_at": "2022-03-21T20:09:55.172Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "32NE",
+      "area_en": "Lalmatia Block-E",
+      "area_bn": "লালমাটিয়া ব্লক-ই",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75461769,
+      "longitude": 90.36656391,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 179,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.172Z",
+      "modified_at": "2022-03-21T20:09:55.172Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "31ND",
+      "area_en": "Lalmatia Block-F",
+      "area_bn": "লালামাটিয়া ব্লক -এফ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75612649,
+      "longitude": 90.36565057,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 180,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.173Z",
+      "modified_at": "2022-03-21T20:09:55.173Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "31ND",
+      "area_en": "Lalmatia Block-G",
+      "area_bn": "লালমাটিয়া ব্লক-জি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75706803,
+      "longitude": 90.3649443,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 181,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.174Z",
+      "modified_at": "2022-03-21T20:09:55.174Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "32NC",
+      "area_en": "Lalmatia Housing Estate New Colony",
+      "area_bn": "লালমাটিয়া হাউজিং এস্টেট নিউকলোনী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75872965,
+      "longitude": 90.36910202,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 182,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.174Z",
+      "modified_at": "2022-03-21T20:09:55.174Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "29NA",
+      "area_en": "Mohammad Co-Operative Housing Society Ltd. Block-A",
+      "area_bn": "মোঃ পুর কো-অপারেটিভ হাউজিং সোসাইটি লিঃ ব্লক-ক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77017481,
+      "longitude": 90.36266004,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 183,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.175Z",
+      "modified_at": "2022-03-21T20:09:55.175Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "31ND",
+      "area_en": "Mohammadpur Colony",
+      "area_bn": "মোঃপুর কলোনী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75637362,
+      "longitude": 90.3640706,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 184,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.175Z",
+      "modified_at": "2022-03-21T20:09:55.175Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "32N",
+      "zone": "32NB",
+      "area_en": "Sir Syed Road",
+      "area_bn": "স্যার সৈয়দ রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76307633,
+      "longitude": 90.36877118,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 185,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.176Z",
+      "modified_at": "2022-03-21T20:09:55.176Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "33N",
+      "zone": "33NB",
+      "area_en": "Bosila City Developers",
+      "area_bn": "বছিলা সিটি ডেভেলপার্স",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74757363,
+      "longitude": 90.34840286,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 186,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.177Z",
+      "modified_at": "2022-03-21T20:09:55.177Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "33N",
+      "zone": "33NI",
+      "area_en": "Bosila Model Town",
+      "area_bn": "বছিলা মডেল টাউন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75489818,
+      "longitude": 90.35913866,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 187,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.177Z",
+      "modified_at": "2022-03-21T20:09:55.177Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "33N",
+      "zone": "33NB",
+      "area_en": "Bosila Road",
+      "area_bn": "বছিলা রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7503234,
+      "longitude": 90.3537485,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 188,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.178Z",
+      "modified_at": "2022-03-21T20:09:55.178Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "33N",
+      "zone": "33NB",
+      "area_en": "Chad Uddan Bosila",
+      "area_bn": "চাঁদ উদ্যান বছিলা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75560723,
+      "longitude": 90.35317093,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 189,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.178Z",
+      "modified_at": "2022-03-21T20:09:55.178Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "33N",
+      "zone": "33NI",
+      "area_en": "Kaderabad Housing Estate",
+      "area_bn": "কাদেরাবাদ হাউজিং এস্টেট",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75391299,
+      "longitude": 90.35999113,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 190,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.179Z",
+      "modified_at": "2022-03-21T20:09:55.179Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "33N",
+      "zone": "33NI",
+      "area_en": "Katasur",
+      "area_bn": "কাটাসুর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75312742,
+      "longitude": 90.36229783,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 191,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.179Z",
+      "modified_at": "2022-03-21T20:09:55.179Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "33N",
+      "zone": "33NI",
+      "area_en": "Latif Real Estate",
+      "area_bn": "লতিফ রিয়েল এস্টেট",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75515727,
+      "longitude": 90.35887051,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 192,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.180Z",
+      "modified_at": "2022-03-21T20:09:55.180Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "33N",
+      "zone": "33ND",
+      "area_en": "Mohammadiya Housing Limited",
+      "area_bn": "মোহাম্মদীয়া হাউজিং লিমিটেড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76018053,
+      "longitude": 90.35489937,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 193,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.180Z",
+      "modified_at": "2022-03-21T20:09:55.180Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "33N",
+      "zone": "33NB",
+      "area_en": "Shatmasjid Housing",
+      "area_bn": "সাতমসজিদ গৃহনির্মাণ সম্ববায় সমিতি লিঃ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75842406,
+      "longitude": 90.34996211,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 194,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.181Z",
+      "modified_at": "2022-03-21T20:09:55.181Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "34N",
+      "zone": "34NB",
+      "area_en": "Jafrabad",
+      "area_bn": "জাফরাবাদ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74836903,
+      "longitude": 90.36341053,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 195,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.182Z",
+      "modified_at": "2022-03-21T20:09:55.182Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "34N",
+      "zone": "34NA",
+      "area_en": "Metro Housing",
+      "area_bn": "মেট্রো হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74541549,
+      "longitude": 90.3533905,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 196,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.182Z",
+      "modified_at": "2022-03-21T20:09:55.182Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "34N",
+      "zone": "32ND",
+      "area_en": "Mother care hospital",
+      "area_bn": "মাদার কেয়ার হাসপাতাল",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7570129,
+      "longitude": 90.374576,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 197,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.183Z",
+      "modified_at": "2022-03-21T20:09:55.183Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "34N",
+      "zone": "34NB",
+      "area_en": "Rayerbazar (East)",
+      "area_bn": "রায়ের বাজার পূর্ব",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7461602,
+      "longitude": 90.36399138,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 198,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.183Z",
+      "modified_at": "2022-03-21T20:09:55.183Z",
+      "district": "Dhaka",
+      "region": "Mohammadpur",
+      "ward": "34N",
+      "zone": "34NC",
+      "area_en": "West Dhanmondi",
+      "area_bn": "পশ্চিম ধানমন্ডি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74912401,
+      "longitude": 90.36646208,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 199,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.184Z",
+      "modified_at": "2022-03-21T20:09:55.184Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "2N",
+      "zone": "2NB",
+      "area_en": "Kalshi",
+      "area_bn": "কালশি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82152841,
+      "longitude": 90.37144823,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 200,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.184Z",
+      "modified_at": "2022-03-21T20:09:55.184Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "2N",
+      "zone": "2NC",
+      "area_en": "Mirpur 11.5",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82267436,
+      "longitude": 90.36416142,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 201,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.185Z",
+      "modified_at": "2022-03-21T20:09:55.185Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "2N",
+      "zone": "2NC",
+      "area_en": "Mirpur 12",
+      "area_bn": "মিরপুর ১২",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82826859,
+      "longitude": 90.36415906,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 202,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.186Z",
+      "modified_at": "2022-03-21T20:09:55.186Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "2N",
+      "zone": "2NA",
+      "area_en": "Mirpur Ceramic",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8315571,
+      "longitude": 90.3684496,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 203,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.186Z",
+      "modified_at": "2022-03-21T20:09:55.186Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "2N",
+      "zone": "2NA",
+      "area_en": "Mirpur DOHS",
+      "area_bn": "মিরপুর DOHS",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.83762394,
+      "longitude": 90.36811614,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 204,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.187Z",
+      "modified_at": "2022-03-21T20:09:55.187Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "2N",
+      "zone": "2NB",
+      "area_en": "Muslim Bazar",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8267677,
+      "longitude": 90.3704774,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 205,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.187Z",
+      "modified_at": "2022-03-21T20:09:55.187Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "2N",
+      "zone": "2NA",
+      "area_en": "Shagufta",
+      "area_bn": "শাগুফতা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82967303,
+      "longitude": 90.37683396,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 206,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.189Z",
+      "modified_at": "2022-03-21T20:09:55.189Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "3N",
+      "zone": "3NA",
+      "area_en": "Mirpur 10",
+      "area_bn": "মিরপুর ১০",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80722878,
+      "longitude": 90.36868707,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 207,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.189Z",
+      "modified_at": "2022-03-21T20:09:55.189Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "5N",
+      "zone": "5NA",
+      "area_en": "Mirpur 11",
+      "area_bn": "মিরপুর ১১",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8167522,
+      "longitude": 90.36556971,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 208,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.190Z",
+      "modified_at": "2022-03-21T20:09:55.190Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "6N",
+      "zone": "6NB",
+      "area_en": "Alubdi",
+      "area_bn": "আলুব্দি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8299034,
+      "longitude": 90.35315531,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 209,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.190Z",
+      "modified_at": "2022-03-21T20:09:55.190Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "6N",
+      "zone": "6NA",
+      "area_en": "Arifabad Housing",
+      "area_bn": "আরিফাবাদ হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82981765,
+      "longitude": 90.36189458,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 210,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.191Z",
+      "modified_at": "2022-03-21T20:09:55.191Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "6N",
+      "zone": "6NB",
+      "area_en": "Eastern Housing",
+      "area_bn": "ইস্টার্ন হাউজিং",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82892303,
+      "longitude": 90.35175885,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 211,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.192Z",
+      "modified_at": "2022-03-21T20:09:55.192Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "6N",
+      "zone": "6NA",
+      "area_en": "Extended Pallabi",
+      "area_bn": "বর্ধিত পল্লবী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82439812,
+      "longitude": 90.35942138,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 212,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.192Z",
+      "modified_at": "2022-03-21T20:09:55.192Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "6N",
+      "zone": "6NC",
+      "area_en": "Milk Vita Road",
+      "area_bn": "মিল্ক ভিটা রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.81817045,
+      "longitude": 90.3611124,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 213,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.193Z",
+      "modified_at": "2022-03-21T20:09:55.193Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "6N",
+      "zone": "6ND",
+      "area_en": "Mirpur 6",
+      "area_bn": "মিরপুর ৬",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.81097935,
+      "longitude": 90.36332323,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 214,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.194Z",
+      "modified_at": "2022-03-21T20:09:55.194Z",
+      "district": "Dhaka",
+      "region": "Pallabi",
+      "ward": "6N",
+      "zone": "6NC",
+      "area_en": "Mirpur 7",
+      "area_bn": "মিরপুর ৭",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.81874382,
+      "longitude": 90.36285531,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 215,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.194Z",
+      "modified_at": "2022-03-21T20:09:55.194Z",
+      "district": "Dhaka",
+      "region": "Ramna",
+      "ward": "35N",
+      "zone": "19SC",
+      "area_en": "Boro Mogbazar",
+      "area_bn": "বড় মগবাজার",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74880799,
+      "longitude": 90.41046968,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 216,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.195Z",
+      "modified_at": "2022-03-21T20:09:55.195Z",
+      "district": "Dhaka",
+      "region": "Ramna",
+      "ward": "35N",
+      "zone": "19SA",
+      "area_en": "Dilu Road",
+      "area_bn": "দিলু রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74985443,
+      "longitude": 90.39863385,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 217,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.196Z",
+      "modified_at": "2022-03-21T20:09:55.196Z",
+      "district": "Dhaka",
+      "region": "Ramna",
+      "ward": "35N",
+      "zone": "19SD",
+      "area_en": "Greenway Road",
+      "area_bn": "গ্রীনওয়ে রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75261425,
+      "longitude": 90.40779104,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 218,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.196Z",
+      "modified_at": "2022-03-21T20:09:55.196Z",
+      "district": "Dhaka",
+      "region": "Ramna",
+      "ward": "35N",
+      "zone": "19SA",
+      "area_en": "New Eskaton Road",
+      "area_bn": "নিউ ইস্কাটন রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74712407,
+      "longitude": 90.39859468,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 219,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.197Z",
+      "modified_at": "2022-03-21T20:09:55.197Z",
+      "district": "Dhaka",
+      "region": "Ramna",
+      "ward": "35N",
+      "zone": "19SD",
+      "area_en": "Peyarabag",
+      "area_bn": "পেয়ারাবাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75178835,
+      "longitude": 90.40616604,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 220,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.197Z",
+      "modified_at": "2022-03-21T20:09:55.197Z",
+      "district": "Dhaka",
+      "region": "Ramna",
+      "ward": "35N",
+      "zone": "19SC",
+      "area_en": "West Mogbazar",
+      "area_bn": "পশ্চিম মগবাজার",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74923209,
+      "longitude": 90.40944823,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 221,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.198Z",
+      "modified_at": "2022-03-21T20:09:55.198Z",
+      "district": "Dhaka",
+      "region": "Ramna",
+      "ward": "36N",
+      "zone": "36NA",
+      "area_en": "East Noyatola",
+      "area_bn": "দক্ষিণ নয়াটোলা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75524906,
+      "longitude": 90.41282323,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 222,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.199Z",
+      "modified_at": "2022-03-21T20:09:55.199Z",
+      "district": "Dhaka",
+      "region": "Ramna",
+      "ward": "36N",
+      "zone": "36NA",
+      "area_en": "Mirbag",
+      "area_bn": "মিরবাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75784725,
+      "longitude": 90.4138125,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 223,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.199Z",
+      "modified_at": "2022-03-21T20:09:55.199Z",
+      "district": "Dhaka",
+      "region": "Ramna",
+      "ward": "36N",
+      "zone": "36NB",
+      "area_en": "Modhubagh",
+      "area_bn": "মধুবাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75813568,
+      "longitude": 90.4108199,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 224,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.200Z",
+      "modified_at": "2022-03-21T20:09:55.200Z",
+      "district": "Dhaka",
+      "region": "Ramna",
+      "ward": "36N",
+      "zone": "19SC",
+      "area_en": "Mogbazar Wireless",
+      "area_bn": "মগবাজার ওয়ারলেস",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75015353,
+      "longitude": 90.40821968,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 225,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.201Z",
+      "modified_at": "2022-03-21T20:09:55.201Z",
+      "district": "Dhaka",
+      "region": "Ramna",
+      "ward": "36N",
+      "zone": "36NB",
+      "area_en": "North Noyatola",
+      "area_bn": "উত্তর নয়াটোলা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75813389,
+      "longitude": 90.40926829,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 226,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.201Z",
+      "modified_at": "2022-03-21T20:09:55.201Z",
+      "district": "Dhaka",
+      "region": "Rampura",
+      "ward": "22N",
+      "zone": "22NA",
+      "area_en": "Bagichartek",
+      "area_bn": "বাগিচারটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76371959,
+      "longitude": 90.41335541,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 227,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.202Z",
+      "modified_at": "2022-03-21T20:09:55.202Z",
+      "district": "Dhaka",
+      "region": "Rampura",
+      "ward": "22N",
+      "zone": "22ND",
+      "area_en": "Banasree",
+      "area_bn": "বনশ্রী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76196243,
+      "longitude": 90.43249114,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 228,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.202Z",
+      "modified_at": "2022-03-21T20:09:55.202Z",
+      "district": "Dhaka",
+      "region": "Rampura",
+      "ward": "22N",
+      "zone": "22NB",
+      "area_en": "Hazipara",
+      "area_bn": "হাজীপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75733744,
+      "longitude": 90.4171875,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 229,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.203Z",
+      "modified_at": "2022-03-21T20:09:55.203Z",
+      "district": "Dhaka",
+      "region": "Rampura",
+      "ward": "22N",
+      "zone": "22NB",
+      "area_en": "Omor Ali Lane",
+      "area_bn": "ওমর আলী লেন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75954371,
+      "longitude": 90.41657697,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 230,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.204Z",
+      "modified_at": "2022-03-21T20:09:55.204Z",
+      "district": "Dhaka",
+      "region": "Rampura",
+      "ward": "22N",
+      "zone": "22NC",
+      "area_en": "Rampura",
+      "area_bn": "রামপুরা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7657785,
+      "longitude": 90.42186614,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 231,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.204Z",
+      "modified_at": "2022-03-21T20:09:55.204Z",
+      "district": "Dhaka",
+      "region": "Rampura",
+      "ward": "22N",
+      "zone": "22NC",
+      "area_en": "Ulon",
+      "area_bn": "উলন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76655796,
+      "longitude": 90.41799114,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 232,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.205Z",
+      "modified_at": "2022-03-21T20:09:55.205Z",
+      "district": "Dhaka",
+      "region": "Shah Ali",
+      "ward": "7N",
+      "zone": "6NA",
+      "area_en": "Duaripara",
+      "area_bn": "দুয়ারিপারা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8259034,
+      "longitude": 90.35567677,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 233,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.205Z",
+      "modified_at": "2022-03-21T20:09:55.205Z",
+      "district": "Dhaka",
+      "region": "Shah Ali",
+      "ward": "7N",
+      "zone": "7NA",
+      "area_en": "Mirpur 2",
+      "area_bn": "মিরপুর ২",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80268289,
+      "longitude": 90.35950187,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 234,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.206Z",
+      "modified_at": "2022-03-21T20:09:55.206Z",
+      "district": "Dhaka",
+      "region": "Shah Ali",
+      "ward": "7N",
+      "zone": "7NA",
+      "area_en": "Rupnagar R/A",
+      "area_bn": "রুপনগর আবাসিক এলাকা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.81467305,
+      "longitude": 90.35607323,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 235,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.206Z",
+      "modified_at": "2022-03-21T20:09:55.206Z",
+      "district": "Dhaka",
+      "region": "Shah Ali",
+      "ward": "8N",
+      "zone": "8NB",
+      "area_en": "Botanical Garden",
+      "area_bn": "বোটানিক্যাল গার্ডেন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8191436,
+      "longitude": 90.34185541,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 236,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.207Z",
+      "modified_at": "2022-03-21T20:09:55.207Z",
+      "district": "Dhaka",
+      "region": "Shah Ali",
+      "ward": "8N",
+      "zone": "8NA",
+      "area_en": "Mirpur 1",
+      "area_bn": "মিরপুর ১",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79864363,
+      "longitude": 90.35310541,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 237,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.208Z",
+      "modified_at": "2022-03-21T20:09:55.208Z",
+      "district": "Dhaka",
+      "region": "Shah Ali",
+      "ward": "8N",
+      "zone": "8NB",
+      "area_en": "Mirpur Zoo",
+      "area_bn": "মিরপুর চিড়িয়াখানা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.81217306,
+      "longitude": 90.34773041,
+      "city_corporation": "2"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 238,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.208Z",
+      "modified_at": "2022-03-21T20:09:55.208Z",
+      "district": "Dhaka",
+      "region": "Sher-E-Bangla Nagar",
+      "ward": "28N",
+      "zone": "28NA",
+      "area_en": "Agargaon administrative area",
+      "area_bn": "আগারগাঁও প্রশাসনিক এলাকা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7783095,
+      "longitude": 90.37250462,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 239,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.209Z",
+      "modified_at": "2022-03-21T20:09:55.209Z",
+      "district": "Dhaka",
+      "region": "Sher-E-Bangla Nagar",
+      "ward": "28N",
+      "zone": "28NA",
+      "area_en": "Shyamolibagh",
+      "area_bn": "শ্যামলী বাগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77725438,
+      "longitude": 90.3640199,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 240,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.209Z",
+      "modified_at": "2022-03-21T20:09:55.209Z",
+      "district": "Dhaka",
+      "region": "Sher-E-Bangla Nagar",
+      "ward": "28N",
+      "zone": "28NA",
+      "area_en": "West Agargaon",
+      "area_bn": "পশ্চিম আগারগাঁও",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78082628,
+      "longitude": 90.36939998,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 241,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.210Z",
+      "modified_at": "2022-03-21T20:09:55.210Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "25N",
+      "zone": "25NA",
+      "area_en": "Arjatpara",
+      "area_bn": "আরজাতপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77594276,
+      "longitude": 90.39534468,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 242,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.211Z",
+      "modified_at": "2022-03-21T20:09:55.211Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "25N",
+      "zone": "25NA",
+      "area_en": "Civil Aviation R/A",
+      "area_bn": "সিভিল এভিয়েশন আবাসিক এলাকা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77424903,
+      "longitude": 90.39221968,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 243,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.211Z",
+      "modified_at": "2022-03-21T20:09:55.211Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "25N",
+      "zone": "25NA",
+      "area_en": "Nakhalpara",
+      "area_bn": "নাখালপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76967313,
+      "longitude": 90.39482323,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 244,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.212Z",
+      "modified_at": "2022-03-21T20:09:55.212Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "26N",
+      "zone": "26ND",
+      "area_en": "Bashundhara City",
+      "area_bn": "বসুন্ধারা সিটি মার্কেট।",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75082601,
+      "longitude": 90.39052861,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 245,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.212Z",
+      "modified_at": "2022-03-21T20:09:55.212Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "26N",
+      "zone": "26NB",
+      "area_en": "Kawranbazar Commercial Area",
+      "area_bn": "কারওয়ান বাজার বানিজ্যিক এলাকা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75232412,
+      "longitude": 90.39401966,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 246,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.213Z",
+      "modified_at": "2022-03-21T20:09:55.213Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "26N",
+      "zone": "26NB",
+      "area_en": "Kawranbazar Road",
+      "area_bn": "কারওয়ান বাজার লেন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75295848,
+      "longitude": 90.39492104,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 247,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.214Z",
+      "modified_at": "2022-03-21T20:09:55.214Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "26N",
+      "zone": "26NB",
+      "area_en": "Kazi Nazrul Islam Avenue",
+      "area_bn": "কাজী নজরুল ইসলাম এভিনিউ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74958562,
+      "longitude": 90.39330318,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 248,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.214Z",
+      "modified_at": "2022-03-21T20:09:55.214Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "26N",
+      "zone": "26NC",
+      "area_en": "Station Road",
+      "area_bn": "স্টেশন রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76075629,
+      "longitude": 90.39457474,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 249,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.215Z",
+      "modified_at": "2022-03-21T20:09:55.215Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "26N",
+      "zone": "26NC",
+      "area_en": "Tejkunipara (Shahid Bir Uttam Ziaur Rahman Road",
+      "area_bn": "তেজকুনীপাড়া (শহীদ বীর উত্তম জিয়াউর রহমান সড়ক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76307567,
+      "longitude": 90.3920275,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 250,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.215Z",
+      "modified_at": "2022-03-21T20:09:55.215Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "26N",
+      "zone": "26NA",
+      "area_en": "Tejturibazar East",
+      "area_bn": "তেজতুরী বাজার পূর্ব",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75600812,
+      "longitude": 90.39312185,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 251,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.216Z",
+      "modified_at": "2022-03-21T20:09:55.216Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "26N",
+      "zone": "26NA",
+      "area_en": "Tejturibazar West",
+      "area_bn": "তেজতুরী বাজার পশ্চিম",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75428064,
+      "longitude": 90.39080661,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 252,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.216Z",
+      "modified_at": "2022-03-21T20:09:55.216Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "27N",
+      "zone": "27NA",
+      "area_en": "Bir Uttam KM Shafiullah Road",
+      "area_bn": "বীর উত্তম কে এম শফিউল্লাহ সড়ক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74741355,
+      "longitude": 90.38576513,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 253,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.217Z",
+      "modified_at": "2022-03-21T20:09:55.217Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "27N",
+      "zone": "27ND",
+      "area_en": "Bir Uttam Shahid Ziaur Rahman Road",
+      "area_bn": "বীর উত্তম শহীদ জিয়াউর রহমান সড়ক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.77272646,
+      "longitude": 90.3900031,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 254,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.218Z",
+      "modified_at": "2022-03-21T20:09:55.218Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "27N",
+      "zone": "27NA",
+      "area_en": "Green Road",
+      "area_bn": "গ্রীন রোড",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.74940751,
+      "longitude": 90.38645824,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 255,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.218Z",
+      "modified_at": "2022-03-21T20:09:55.218Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "27N",
+      "zone": "27NC",
+      "area_en": "Monipuripara",
+      "area_bn": "মনিপুরী পাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7618898,
+      "longitude": 90.38760467,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 256,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.219Z",
+      "modified_at": "2022-03-21T20:09:55.219Z",
+      "district": "Dhaka",
+      "region": "Tejgaon",
+      "ward": "27N",
+      "zone": "26NA",
+      "area_en": "Tejturibazar choklane",
+      "area_bn": "তেস্তুরী বাজার চকলেন",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.75610807,
+      "longitude": 90.3921432,
+      "city_corporation": "5"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 257,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.219Z",
+      "modified_at": "2022-03-21T20:09:55.219Z",
+      "district": "Dhaka",
+      "region": "Tejgaon Industrial",
+      "ward": "24N",
+      "zone": "24NA",
+      "area_en": "Begunbari",
+      "area_bn": "বেগুনবাড়ি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76352851,
+      "longitude": 90.40199812,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 258,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.220Z",
+      "modified_at": "2022-03-21T20:09:55.220Z",
+      "district": "Dhaka",
+      "region": "Tejgaon Industrial",
+      "ward": "24N",
+      "zone": "24NA",
+      "area_en": "Kunipara",
+      "area_bn": "কুনিপারা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76223923,
+      "longitude": 90.40640531,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 259,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.220Z",
+      "modified_at": "2022-03-21T20:09:55.220Z",
+      "district": "Dhaka",
+      "region": "Tejgaon Industrial",
+      "ward": "24N",
+      "zone": "24NA",
+      "area_en": "Tejgaon Commercial Area",
+      "area_bn": "তেজগাঁও বাণিজ্যিক এলাকা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.76688386,
+      "longitude": 90.40521594,
+      "city_corporation": "3"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 260,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.221Z",
+      "modified_at": "2022-03-21T20:09:55.221Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "51N",
+      "zone": "52NA",
+      "area_en": "Balijuri",
+      "area_bn": "বাইলজুড়ী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8721875,
+      "longitude": 90.3885625,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 261,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.221Z",
+      "modified_at": "2022-03-21T20:09:55.221Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "51N",
+      "zone": "51NA",
+      "area_en": "Uttara Sector 18",
+      "area_bn": "উত্তরা মডেল টাউন ১২",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86238584,
+      "longitude": 90.35962357,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 262,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.222Z",
+      "modified_at": "2022-03-21T20:09:55.222Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "52N",
+      "zone": "52NA",
+      "area_en": "Ahalia",
+      "area_bn": "আহালিয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86494258,
+      "longitude": 90.38364458,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 263,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.223Z",
+      "modified_at": "2022-03-21T20:09:55.223Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "52N",
+      "zone": "52NC",
+      "area_en": "Badaldi",
+      "area_bn": "বাদালদি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85451854,
+      "longitude": 90.38425187,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 264,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.223Z",
+      "modified_at": "2022-03-21T20:09:55.223Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "52N",
+      "zone": "52NC",
+      "area_en": "Bawnia",
+      "area_bn": "বাউনিয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.846423,
+      "longitude": 90.3878125,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 265,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.224Z",
+      "modified_at": "2022-03-21T20:09:55.224Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "52N",
+      "zone": "52NB",
+      "area_en": "Chandura",
+      "area_bn": "চান্দুরা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.84439566,
+      "longitude": 90.37174555,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 266,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.224Z",
+      "modified_at": "2022-03-21T20:09:55.224Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "52N",
+      "zone": "52NA",
+      "area_en": "Dolipara",
+      "area_bn": "দলিপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86013773,
+      "longitude": 90.38854684,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 267,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.225Z",
+      "modified_at": "2022-03-21T20:09:55.225Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "52N",
+      "zone": "52NA",
+      "area_en": "Pakuria",
+      "area_bn": "পাকুড়িয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86657739,
+      "longitude": 90.37957323,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 268,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.226Z",
+      "modified_at": "2022-03-21T20:09:55.226Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "52N",
+      "zone": "53NA",
+      "area_en": "Sholahati",
+      "area_bn": "ষোলাহাটি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86904795,
+      "longitude": 90.3648125,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 269,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.226Z",
+      "modified_at": "2022-03-21T20:09:55.226Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "52N",
+      "zone": "52NB",
+      "area_en": "Tafalia",
+      "area_bn": "তাফলিয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.851506,
+      "longitude": 90.37659591,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 270,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.227Z",
+      "modified_at": "2022-03-21T20:09:55.227Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "52N",
+      "zone": "52NB",
+      "area_en": "Uludaha",
+      "area_bn": "উলুদহ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85744004,
+      "longitude": 90.3752626,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 271,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.227Z",
+      "modified_at": "2022-03-21T20:09:55.227Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53C",
+      "area_en": "Bamnartek",
+      "area_bn": "বামনারটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.88513368,
+      "longitude": 90.3809375,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 272,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.228Z",
+      "modified_at": "2022-03-21T20:09:55.228Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53NC",
+      "area_en": "Dhorangartek",
+      "area_bn": "ধরাঙ্গারটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.88227831,
+      "longitude": 90.37816604,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 273,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.229Z",
+      "modified_at": "2022-03-21T20:09:55.229Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53ND",
+      "area_en": "Dhour",
+      "area_bn": "ধউর (আংশিক)",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.89231242,
+      "longitude": 90.3615574,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 274,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.229Z",
+      "modified_at": "2022-03-21T20:09:55.229Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53NA",
+      "area_en": "Diabari",
+      "area_bn": "দিয়াবাড়ী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86684077,
+      "longitude": 90.36612909,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 275,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.230Z",
+      "modified_at": "2022-03-21T20:09:55.230Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53E",
+      "area_en": "Nayanagar",
+      "area_bn": "নয়ানগর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87857179,
+      "longitude": 90.3756174,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 276,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.231Z",
+      "modified_at": "2022-03-21T20:09:55.231Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53NB",
+      "area_en": "Nimtolirtek",
+      "area_bn": "নিমতলীরটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87875959,
+      "longitude": 90.37040674,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 277,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.231Z",
+      "modified_at": "2022-03-21T20:09:55.231Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53E",
+      "area_en": "Nolvog",
+      "area_bn": "নলভোগ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87882483,
+      "longitude": 90.37530177,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 278,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.232Z",
+      "modified_at": "2022-03-21T20:09:55.232Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53NC",
+      "area_en": "Phulbaria Uttara",
+      "area_bn": "ফুলবাড়িয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87969344,
+      "longitude": 90.38366884,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 279,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.233Z",
+      "modified_at": "2022-03-21T20:09:55.233Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53ND",
+      "area_en": "Purankalia",
+      "area_bn": "পুরানকালিয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.88530303,
+      "longitude": 90.36706437,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 280,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.233Z",
+      "modified_at": "2022-03-21T20:09:55.233Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53NC",
+      "area_en": "Ranabhola",
+      "area_bn": "রানাভোলা (আংশিক)",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.88438622,
+      "longitude": 90.38605177,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 281,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.234Z",
+      "modified_at": "2022-03-21T20:09:55.234Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53NB",
+      "area_en": "Shukrobhanga",
+      "area_bn": "শুক্রভাঙ্গা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.88157736,
+      "longitude": 90.37055177,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 282,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.235Z",
+      "modified_at": "2022-03-21T20:09:55.235Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "53N",
+      "zone": "53E",
+      "area_en": "Tarartek",
+      "area_bn": "তারারটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87667294,
+      "longitude": 90.37562312,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 283,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.235Z",
+      "modified_at": "2022-03-21T20:09:55.235Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "54N",
+      "zone": "54NA",
+      "area_en": "Bhatulia",
+      "area_bn": "ভাটুলিয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.89464348,
+      "longitude": 90.38557323,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 284,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.236Z",
+      "modified_at": "2022-03-21T20:09:55.236Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "54N",
+      "zone": "53C",
+      "area_en": "Kaliartek",
+      "area_bn": "কালিয়ারটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.88792813,
+      "longitude": 90.38516369,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 285,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.236Z",
+      "modified_at": "2022-03-21T20:09:55.236Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "54N",
+      "zone": "54NC",
+      "area_en": "Kamarpara",
+      "area_bn": "কামারপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.89092329,
+      "longitude": 90.38189939,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 286,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.237Z",
+      "modified_at": "2022-03-21T20:09:55.237Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "54N",
+      "zone": "54NB",
+      "area_en": "Khayertek",
+      "area_bn": "খায়েরটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.89062625,
+      "longitude": 90.37981786,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 287,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.238Z",
+      "modified_at": "2022-03-21T20:09:55.238Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "54N",
+      "zone": "54NA",
+      "area_en": "Nayanichala",
+      "area_bn": "নয়ানীচালা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.89554791,
+      "longitude": 90.37966604,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 288,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.238Z",
+      "modified_at": "2022-03-21T20:09:55.238Z",
+      "district": "Dhaka",
+      "region": "Turag",
+      "ward": "54N",
+      "zone": "54NB",
+      "area_en": "Rajabari",
+      "area_bn": "রাজাবাড়ী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.89104791,
+      "longitude": 90.3799375,
+      "city_corporation": "6"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 289,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.239Z",
+      "modified_at": "2022-03-21T20:09:55.239Z",
+      "district": "Dhaka",
+      "region": "Uttara East",
+      "ward": "1N",
+      "zone": "1NA",
+      "area_en": "Uttara Sector 1",
+      "area_bn": "উত্তরা সেক্টর ১",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85791316,
+      "longitude": 90.40105177,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 290,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.239Z",
+      "modified_at": "2022-03-21T20:09:55.240Z",
+      "district": "Dhaka",
+      "region": "Uttara East",
+      "ward": "1N",
+      "zone": "1NA",
+      "area_en": "Uttara Sector 2",
+      "area_bn": "উত্তরা সেক্টর ২",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85741316,
+      "longitude": 90.40529104,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 291,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.240Z",
+      "modified_at": "2022-03-21T20:09:55.240Z",
+      "district": "Dhaka",
+      "region": "Uttara East",
+      "ward": "1N",
+      "zone": "1NB",
+      "area_en": "Uttara Sector 4",
+      "area_bn": "উত্তরা সেক্টর ৪",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86478815,
+      "longitude": 90.40323041,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 292,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.241Z",
+      "modified_at": "2022-03-21T20:09:55.241Z",
+      "district": "Dhaka",
+      "region": "Uttara East",
+      "ward": "1N",
+      "zone": "1ND",
+      "area_en": "Uttara Sector 6",
+      "area_bn": "উত্তরা সেক্টর ৬",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87132738,
+      "longitude": 90.40346968,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 293,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.241Z",
+      "modified_at": "2022-03-21T20:09:55.241Z",
+      "district": "Dhaka",
+      "region": "Uttara East",
+      "ward": "1N",
+      "zone": "1NE",
+      "area_en": "Uttara Sector 8",
+      "area_bn": "উত্তরা সেক্টর ৮",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87756502,
+      "longitude": 90.40350187,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 294,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.242Z",
+      "modified_at": "2022-03-21T20:09:55.242Z",
+      "district": "Dhaka",
+      "region": "Uttara East",
+      "ward": "50N",
+      "zone": "1NB",
+      "area_en": "Azampur",
+      "area_bn": "আজমপুর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86828154,
+      "longitude": 90.40011051,
+      "city_corporation": "7"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 295,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.242Z",
+      "modified_at": "2022-03-21T20:09:55.242Z",
+      "district": "Dhaka",
+      "region": "Uttara West",
+      "ward": "1N",
+      "zone": "1NE",
+      "area_en": "Abdullahpur",
+      "area_bn": "আব্দুল্লাহপুর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87764351,
+      "longitude": 90.40133396,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 296,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.243Z",
+      "modified_at": "2022-03-21T20:09:55.243Z",
+      "district": "Dhaka",
+      "region": "Uttara West",
+      "ward": "1N",
+      "zone": "53NA",
+      "area_en": "Uttara Sector 10",
+      "area_bn": "উত্তরা সেক্টর ১০",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.88584444,
+      "longitude": 90.38891604,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 297,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.244Z",
+      "modified_at": "2022-03-21T20:09:55.244Z",
+      "district": "Dhaka",
+      "region": "Uttara West",
+      "ward": "1N",
+      "zone": "1NF",
+      "area_en": "Uttara sector 11-12-13",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8735277,
+      "longitude": 90.385809,
+      "city_corporation": ""
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 298,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.244Z",
+      "modified_at": "2022-03-21T20:09:55.244Z",
+      "district": "Dhaka",
+      "region": "Uttara West",
+      "ward": "1N",
+      "zone": "1NB",
+      "area_en": "Uttara Sector 3",
+      "area_bn": "উত্তরা সেক্টর ৩",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86468277,
+      "longitude": 90.39690531,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 299,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.245Z",
+      "modified_at": "2022-03-21T20:09:55.245Z",
+      "district": "Dhaka",
+      "region": "Uttara West",
+      "ward": "1N",
+      "zone": "1NC",
+      "area_en": "Uttara Sector 5",
+      "area_bn": "উত্তরা সেক্টর ৫",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.86477834,
+      "longitude": 90.3906875,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 300,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.245Z",
+      "modified_at": "2022-03-21T20:09:55.245Z",
+      "district": "Dhaka",
+      "region": "Uttara West",
+      "ward": "1N",
+      "zone": "1ND",
+      "area_en": "Uttara Sector 7",
+      "area_bn": "উত্তরা সেক্টর ৭",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87145965,
+      "longitude": 90.39752333,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 301,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.246Z",
+      "modified_at": "2022-03-21T20:09:55.246Z",
+      "district": "Dhaka",
+      "region": "Uttara West",
+      "ward": "1N",
+      "zone": "1NE",
+      "area_en": "Uttara Sector 9",
+      "area_bn": "উত্তরা সেক্টর ৯",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87794256,
+      "longitude": 90.39851958,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 302,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.247Z",
+      "modified_at": "2022-03-21T20:09:55.247Z",
+      "district": "Dhaka",
+      "region": "Uttarkhan",
+      "ward": "45N",
+      "zone": "45NA",
+      "area_en": "Uttarkhan",
+      "area_bn": "উত্তরখান (দক্ষিণ)",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.87428885,
+      "longitude": 90.44797544,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 303,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.247Z",
+      "modified_at": "2022-03-21T20:09:55.247Z",
+      "district": "Dhaka",
+      "region": "Uttarkhan",
+      "ward": "46N",
+      "zone": "46NA",
+      "area_en": "Babur Para",
+      "area_bn": "বাবুর পাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8833919,
+      "longitude": 90.41833609,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 304,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.248Z",
+      "modified_at": "2022-03-21T20:09:55.248Z",
+      "district": "Dhaka",
+      "region": "Uttarkhan",
+      "ward": "46N",
+      "zone": "46NB",
+      "area_en": "Mausaid",
+      "area_bn": "মাউছাইদ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.89707903,
+      "longitude": 90.44243574,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 305,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.249Z",
+      "modified_at": "2022-03-21T20:09:55.249Z",
+      "district": "Dhaka",
+      "region": "Uttarkhan",
+      "ward": "46N",
+      "zone": "45NA",
+      "area_en": "Moinartek",
+      "area_bn": "মৈনারটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.88183297,
+      "longitude": 90.44280714,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 306,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.249Z",
+      "modified_at": "2022-03-21T20:09:55.249Z",
+      "district": "Dhaka",
+      "region": "Uttarkhan",
+      "ward": "46N",
+      "zone": "46NB",
+      "area_en": "Munda",
+      "area_bn": "মুন্ডা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.88916505,
+      "longitude": 90.42990413,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 307,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.250Z",
+      "modified_at": "2022-03-21T20:09:55.250Z",
+      "district": "Dhaka",
+      "region": "Uttarkhan",
+      "ward": "46N",
+      "zone": "46NB",
+      "area_en": "Polartek",
+      "area_bn": "পুলার টেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.89056003,
+      "longitude": 90.4346981,
+      "city_corporation": "8"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 308,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.250Z",
+      "modified_at": "2022-03-21T20:09:55.250Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "43N",
+      "zone": "43NA",
+      "area_en": "Dhelna",
+      "area_bn": "ঢেলনা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.84547992,
+      "longitude": 90.47144903,
+      "city_corporation": "9"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 309,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.251Z",
+      "modified_at": "2022-03-21T20:09:55.251Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "43N",
+      "zone": "43NB",
+      "area_en": "Dumni",
+      "area_bn": "ডুমনি",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82986941,
+      "longitude": 90.46977278,
+      "city_corporation": "9"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 310,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.251Z",
+      "modified_at": "2022-03-21T20:09:55.251Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "43N",
+      "zone": "41NA",
+      "area_en": "Kathaldia",
+      "area_bn": "কাঁঠালদিয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80071143,
+      "longitude": 90.45009805,
+      "city_corporation": "9"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 311,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.252Z",
+      "modified_at": "2022-03-21T20:09:55.252Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "43N",
+      "zone": "43NB",
+      "area_en": "Mostul",
+      "area_bn": "মস্তুল",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.83587393,
+      "longitude": 90.47143008,
+      "city_corporation": "9"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 312,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.253Z",
+      "modified_at": "2022-03-21T20:09:55.253Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "43N",
+      "zone": "43NB",
+      "area_en": "Patira",
+      "area_bn": "পাতিরা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82917254,
+      "longitude": 90.48183202,
+      "city_corporation": "9"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 313,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.253Z",
+      "modified_at": "2022-03-21T20:09:55.253Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "43N",
+      "zone": "43NA",
+      "area_en": "Talna",
+      "area_bn": "তলনা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.85146001,
+      "longitude": 90.47192882,
+      "city_corporation": "9"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 314,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.254Z",
+      "modified_at": "2022-03-21T20:09:55.254Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "17N",
+      "zone": "17NB",
+      "area_en": "Bashundhara R/A",
+      "area_bn": "বসুন্ধরা আবাসিক এলাকা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.81962656,
+      "longitude": 90.44041604,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 315,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.254Z",
+      "modified_at": "2022-03-21T20:09:55.254Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "17N",
+      "zone": "17NG",
+      "area_en": "Jalshiri",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8083128,
+      "longitude": 90.5054449,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 316,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.255Z",
+      "modified_at": "2022-03-21T20:09:55.255Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "17N",
+      "zone": "17NB",
+      "area_en": "Bashundhara Residential Area",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.823824,
+      "longitude": 90.4581964,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 317,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.255Z",
+      "modified_at": "2022-03-21T20:09:55.255Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "17N",
+      "zone": "17NF",
+      "area_en": "300 feet",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8299739,
+      "longitude": 90.4441866,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 318,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.256Z",
+      "modified_at": "2022-03-21T20:09:55.256Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "17N",
+      "zone": "17NF",
+      "area_en": "Purbachal Express Highway",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8354976,
+      "longitude": 90.523249,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 319,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.256Z",
+      "modified_at": "2022-03-21T20:09:55.256Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "17N",
+      "zone": "17NF",
+      "area_en": "Purbachal",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.8377201,
+      "longitude": 23.8377201,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 320,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.257Z",
+      "modified_at": "2022-03-21T20:09:55.257Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "17N",
+      "zone": "17NC",
+      "area_en": "Jagannathpur",
+      "area_bn": "জগন্নাথপুর",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.81259453,
+      "longitude": 90.42466604,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 321,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.258Z",
+      "modified_at": "2022-03-21T20:09:55.258Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "17N",
+      "zone": "17ND",
+      "area_en": "Kuril",
+      "area_bn": "কুড়িল",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.82219989,
+      "longitude": 90.4220625,
+      "city_corporation": "1"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 322,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.258Z",
+      "modified_at": "2022-03-21T20:09:55.258Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "39N",
+      "zone": "39NC",
+      "area_en": "East Nurerchala",
+      "area_bn": "পূর্ব নূরেরচালা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79054561,
+      "longitude": 90.43797155,
+      "city_corporation": "9"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 323,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.259Z",
+      "modified_at": "2022-03-21T20:09:55.259Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "39N",
+      "zone": "39NA",
+      "area_en": "West Khilbarirtek",
+      "area_bn": "পশ্চিম খিলবাড়িরটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79365282,
+      "longitude": 90.42807231,
+      "city_corporation": "9"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 324,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.259Z",
+      "modified_at": "2022-03-21T20:09:55.259Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "39N",
+      "zone": "39NB",
+      "area_en": "West Nurerchala",
+      "area_bn": "পশ্চিম নূরেরচালা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79467829,
+      "longitude": 90.43322978,
+      "city_corporation": "9"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 325,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.260Z",
+      "modified_at": "2022-03-21T20:09:55.260Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "40N",
+      "zone": "40NA",
+      "area_en": "Bhatara",
+      "area_bn": "ভাটারা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79223794,
+      "longitude": 90.42883627,
+      "city_corporation": "9"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 326,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.260Z",
+      "modified_at": "2022-03-21T20:09:55.260Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "41N",
+      "zone": "42NA",
+      "area_en": "Merulkhola",
+      "area_bn": "মেরুলখোলা",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80232234,
+      "longitude": 90.47149196,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 327,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.261Z",
+      "modified_at": "2022-03-21T20:09:55.261Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "41N",
+      "zone": "42NB",
+      "area_en": "Mogardia",
+      "area_bn": "মগারদিয়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79528377,
+      "longitude": 90.46369393,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 328,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.262Z",
+      "modified_at": "2022-03-21T20:09:55.262Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "41N",
+      "zone": "41NB",
+      "area_en": "Pukurapara",
+      "area_bn": "পুকুরপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78646458,
+      "longitude": 90.44684303,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 329,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.262Z",
+      "modified_at": "2022-03-21T20:09:55.262Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "41N",
+      "zone": "41NA",
+      "area_en": "Shatarkul",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79618137,
+      "longitude": 90.44954017,
+      "city_corporation": ""
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 330,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.263Z",
+      "modified_at": "2022-03-21T20:09:55.263Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "41N",
+      "zone": "41NC",
+      "area_en": "Uttarpara",
+      "area_bn": "উত্তরপাড়া পশ্চিমাংশ",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.83277994,
+      "longitude": 90.42528783,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 331,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.264Z",
+      "modified_at": "2022-03-21T20:09:55.264Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "42N",
+      "zone": "42NA",
+      "area_en": "Ashkartek",
+      "area_bn": "আশকারটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.79999505,
+      "longitude": 90.47367616,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 332,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.264Z",
+      "modified_at": "2022-03-21T20:09:55.264Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "42N",
+      "zone": "42NA",
+      "area_en": "Boro Beraid",
+      "area_bn": "বড় বেরাইদ ঋষিপাড়া",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80155983,
+      "longitude": 90.47870939,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 333,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.265Z",
+      "modified_at": "2022-03-21T20:09:55.265Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "42N",
+      "zone": "42NA",
+      "area_en": "Boro Beraid Moralpara",
+      "area_bn": "বড় বেরাইদ মোড়লপাড়া (দক্ষিণ)",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80155983,
+      "longitude": 90.47870939,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 334,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.265Z",
+      "modified_at": "2022-03-21T20:09:55.265Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "42N",
+      "zone": "42NB",
+      "area_en": "Chandartek",
+      "area_bn": "চান্দারটেক",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.7984969,
+      "longitude": 90.46628764,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 335,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.266Z",
+      "modified_at": "2022-03-21T20:09:55.266Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "42N",
+      "zone": "72SA",
+      "area_en": "Fakirkhali",
+      "area_bn": "ফকিরখালী",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.78092892,
+      "longitude": 90.46974567,
+      "city_corporation": "10"
+    }
+  },
+  {
+    "model": "zones.zone",
+    "pk": 336,
+    "fields": {
+      "created_at": "2022-03-21T20:09:55.267Z",
+      "modified_at": "2022-03-21T20:09:55.267Z",
+      "district": "Dhaka",
+      "region": "Vatara",
+      "ward": "42N",
+      "zone": "42NB",
+      "area_en": "Madani Avenue",
+      "area_bn": "",
+      "road": "",
+      "road_code": "",
+      "landmark": "",
+      "latitude": 23.80220768,
+      "longitude": 90.46721737,
+      "city_corporation": ""
+    }
+  }
+]

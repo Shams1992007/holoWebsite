@@ -1,0 +1,14 @@
+/* Apply styles to the body-wrapper and content-wrapper */
+.admin-content-wrapper {
+    margin-top: 200px; /* Adjust margin as needed */
+  }
+  
+  .admin-body-wrapper {
+    background-color: lightyellow; /* Your desired background color */
+    margin-top: 20%;
+  }
+
+  .admin-header-height {
+    height: 5%;
+  }
+  

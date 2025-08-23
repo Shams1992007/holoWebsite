@@ -1,0 +1,38 @@
+/* src/pages/Map.module.css */
+.mapContainer {
+    position: relative;
+    height: 600px;
+    width: 100%;
+    z-index: 1;
+    margin-bottom: 6rem; /* Increased for footer spacing */
+    margin-top: 4rem;
+    overflow: hidden;
+  }
+  
+  .mapLocationsArea {
+    margin-top: 115px;
+    margin-bottom: 70px;
+  }
+  
+  .container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .colLg12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  
+  @media (max-width: 768px) {
+    .mapContainer {
+      height: 400px;
+      margin-bottom: 4rem;
+    }
+  }

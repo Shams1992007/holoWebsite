@@ -1,0 +1,47 @@
+[
+  {
+    "i_1": {
+      "i_english": "How to request a “Cashout” ?",
+      "i_bangla": "কীভাবে ক্যাশ  রিকোয়েস্ট করবেন?",
+      "steps": [
+        {
+          "content_en": "Open the app. You will be on the landing page if you are already logged in. Otherwise you have to log in.",
+          "content_bn": "অ্যাপটি চালু করুন। আপনি লগিন করা থাকলে ছবির পৃষ্ঠায় যাবেন। অথবা না করা থাকলে অ্যাপে ঢুকতে আপনাকে লগিন করতে হবে।",
+          "image": "public/img/instructions/images/image7.jpg"
+        },
+        {},
+        {}
+      ]
+    },
+    "i_2": {
+      "i_english": "What is the cancellation fee?",
+      "i_bangla": "ক্যান্সেলেশন ফি আছে কি না?",
+      "step_count": 1,
+      "video_url": "url",
+      "steps": [
+        {
+          "content_en": "There is no cancellation fee, but we need to know the cause of the cancellation, so that we can solve the problem and provide better service for the Jatri the next time. If you cancel, please let us know.",
+          "content_bn": "কোনও বাতিলকরণ ফি নেই, তবে আমাদের বাতিলের কারণ জানতে হবে, যাতে আমরা সমস্যাটি সমাধান করতে পারি এবং পরবর্তী সময়ে ব্যবহারকারীর জন্য আরও ভাল পরিষেবা সরবরাহ করতে পারি।আপনি যদি রাইড বাতিল করেন, বাতিল করার কারণটি আমাদেরকে জানানোর অনুরোধ করা হচ্ছে।",
+          "image": ""
+        }
+      ]
+    },
+    "i_3": {
+      "i_english": "How to request a ride?",
+      "i_bangla": "ব্লাহ",
+
+      "steps": [
+        {
+          "content_en": "meow",
+          "content_bn": "meow in bangla",
+          "image": "url"
+        },
+        {
+          "content_en": "woof",
+          "content_bn": "woof in bangla",
+          "image": "url"
+        }
+      ]
+    }
+  }
+]

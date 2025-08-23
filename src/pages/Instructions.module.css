@@ -1,0 +1,130 @@
+.instructionsArea {
+    padding: 4rem 0;
+  }
+  
+  .instructionsRow {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  .downloadSection {
+    text-align: center;
+  }
+  
+  .sectionTitle {
+    font-size: 2rem;
+    color: #1e3a8a;
+    margin-bottom: 1.5rem;
+  }
+  
+  .downloadGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .downloadItem {
+    background: #f9fafb;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .downloadItem h3 {
+    font-size: 1.25rem;
+    color: #1e3a8a;
+    margin-bottom: 1rem;
+  }
+  
+  .downloadItem img {
+    width: 60px;
+    height: 60px;
+    transition: transform 0.3s;
+  }
+  
+  .downloadItem img:hover {
+    transform: scale(1.1);
+  }
+  
+  .enlistmentSection {
+    text-align: center;
+  }
+  
+  .enlistmentImages {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  
+  .enlistmentImages img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    max-height: 300px;
+  }
+  
+  .videoWrapper {
+    max-width: 560px;
+    margin: 0 auto;
+  }
+  
+  .videoWrapper iframe {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .accordionSection {
+    margin-top: 2rem;
+  }
+  
+  .instructionImage {
+    margin: 1rem 0;
+    text-align: center;
+  }
+  
+  .instructionImage img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .btnWrapper {
+    margin-top: 1.5rem;
+    text-align: center;
+  }
+  
+  .themeBtn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #1e3a8a;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    transition: background-color 0.3s;
+  }
+  
+  .themeBtn:hover {
+    background-color: #10b981;
+  }
+  
+  @media (max-width: 768px) {
+    .sectionTitle {
+      font-size: 1.5rem;
+    }
+  
+    .downloadGrid {
+      grid-template-columns: 1fr;
+    }
+  
+    .enlistmentImages img {
+      max-height: 200px;
+    }
+  }

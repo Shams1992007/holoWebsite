@@ -1,0 +1,265 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Noto Sans Bengali', Arial, sans-serif;
+  }
+  
+  .pageWrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: #f8f9fa;
+  }
+  
+  .utilizeOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+    display: none;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .landingArea {
+    flex: 1;
+    padding: 40px 0;
+    background: #f8f9fa;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .formTitle {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .formGroup {
+    margin-bottom: 15px;
+  }
+  
+  .label {
+    font-size: 16px;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #333;
+    background: #ffffff;
+    transition: border-color 0.3s;
+  }
+  
+  .input:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  .selectButton {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    background: linear-gradient(135deg, #ffffff, #e9ecef);
+    text-align: left;
+    font-size: 16px;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .selectButton:hover {
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    color: #fff;
+  }
+  
+  .dateContainer {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  
+  .dateSelect {
+    flex: 1;
+    min-width: 100px;
+  }
+  
+  .timeSelect {
+    flex: 1;
+    min-width: 120px;
+  }
+  
+  .buttonContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .button {
+    background: linear-gradient(135deg, #ffffff, #e9ecef);
+    color: #333;
+    padding: 14px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    width: 80%;
+    max-width: 300px;
+    text-align: center;
+    border: 1px solid #ced4da;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .button:hover {
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+  }
+  
+  .buttonText {
+    font-size: 18px;
+    font-family: 'Noto Sans Bengali', sans-serif;
+  }
+  
+  .center {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .spinner {
+    border: 4px solid rgba(0, 0, 255, 0.1);
+    border-left-color: #0000ff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+  }
+  
+  @keyframes spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .modalContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .modalContent {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .modalButtons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .modalButton {
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid #ced4da;
+    transition: all 0.3s ease;
+    text-align: center;
+    width: 45%;
+  }
+  
+  .saveButton {
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    color: #fff;
+  }
+  
+  .saveButton:hover {
+    background: linear-gradient(135deg, #0056b3, #003d82);
+    transform: translateY(-2px);
+  }
+  
+  .cancelButton {
+    background: linear-gradient(135deg, #ff4444, #cc0000);
+    color: #fff;
+  }
+  
+  .cancelButton:hover {
+    background: linear-gradient(135deg, #cc0000, #990000);
+    transform: translateY(-2px);
+  }
+  
+  /* react-select overrides */
+  .react-select__control {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-size: 16px;
+    background: #ffffff;
+    padding: 2px;
+    cursor: pointer;
+  }
+  
+  .react-select__control--is-focused {
+    border-color: #007bff;
+    box-shadow: none;
+  }
+  
+  .react-select__menu {
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background: #ffffff;
+  }
+  
+  .react-select__option {
+    padding: 10px;
+    font-size: 16px;
+    color: #333;
+    cursor: pointer;
+  }
+  
+  .react-select__option--is-focused {
+    background: #f8f9fa;
+  }
+  
+  .react-select__option--is-selected {
+    background: #007bff;
+    color: #fff;
+  }

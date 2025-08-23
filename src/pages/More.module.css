@@ -1,0 +1,134 @@
+.pageDetailsArea {
+    padding: 80px 0;
+    background-color: #f9f9f9;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+  }
+  
+  .colLg12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0 15px;
+  }
+  
+  .colLg6 {
+    flex: 0 0 50%;
+    max-width: 45%;
+    padding: 0 15px;
+  }
+  
+  .sectionTitleArea {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .sectionSubtitle {
+    color: #ff5733;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .sectionTitle {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .sectionTitle span {
+    color: #ff5733;
+  }
+  
+  .serviceItem {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    margin-bottom: 30px;
+  }
+  
+  .serviceItemIcon {
+    font-size: 40px;
+    color: #ff5733;
+    margin-right: 20px;
+  }
+  
+  .serviceItemBrief {
+    flex: 1;
+  }
+  
+  .serviceTitle {
+    font-size: 24px;
+    color: #ff5733;
+    margin-bottom: 15px;
+  }
+  
+  .serviceItemBrief ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .serviceItemBrief ul li {
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .serviceItemBrief ul li span {
+    margin-right: 10px;
+    color: #ff5733;
+  }
+  
+  .appLinkLabel {
+    margin-right: 10px;
+  }
+  
+  .appLink {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  .appLink:hover {
+    text-decoration: underline;
+  }
+  
+  .sidebarArea {
+    margin-top: 40px;
+  }
+  
+  .widget {
+    margin-bottom: 40px;
+  }
+  
+  .bannerWidget {
+    text-align: center;
+  }
+  
+  .bannerImage {
+    max-width: 100%;
+    margin: 15px 0;
+    border-radius: 8px;
+  }
+  
+  .downloadIcon {
+    width: 100px;
+    height: 100px;
+  }
+  
+  @media (max-width: 768px) {
+    .colLg6 {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+  }

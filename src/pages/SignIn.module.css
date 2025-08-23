@@ -1,0 +1,442 @@
+.signInContainer {
+  width: 100vw; /* Full viewport width */
+  min-height: calc(100vh - 200px); /* Height accounting for header/footer */
+  position: relative; /* Contain absolute-positioned video */
+  overflow-x: hidden; /* Prevent horizontal scrollbar */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0; /* Remove any default margins */
+}
+
+/* Wrapper for centered content */
+.contentWrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 1; /* Above video and overlay */
+}
+
+/* Wrapper for video to maintain 16:9 aspect ratio */
+.videoWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100%;
+  z-index: -1; /* Behind content */
+  overflow: hidden;
+  aspect-ratio: 16 / 9; /* Enforce 16:9 aspect ratio */
+}
+
+/* Background video styles */
+.backgroundVideo {
+  width: 100vw; /* Full viewport width */
+  height: 100%; /* Full container height */
+  min-width: 100%; /* Ensure no gaps */
+  min-height: 100%; /* Ensure no gaps */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Center both horizontally and vertically */
+  border: none; /* Remove iframe border */
+  object-fit: cover; /* Ensure video scales to cover container */
+}
+
+/* Semi-transparent overlay for better content readability */
+.signInContainer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3); /* Adjust opacity for readability */
+  z-index: -1; /* Above video, below content */
+}
+
+/* Ensure content is above the video */
+.title,
+.signInCard {
+  position: relative;
+  z-index: 1; /* Above video and overlay */
+}
+
+.languageSwitch {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  gap: 10px;
+  z-index: 2; /* Above video, overlay, and content */
+}
+
+.languageButton {
+  background: #e5e7eb;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+  cursor: pointer;
+  color: #1a1a1a;
+  transition: background 0.2s, color 0.2s;
+}
+
+.languageButton.active {
+  background: #3b82f6;
+  color: #ffffff;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 30px;
+}
+
+.signInCard {
+  background: #b2c5e1;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  padding: 30px;
+  max-width: 400px;
+  width: 100%;
+  box-shadow: 0 2px 4px rgba(82, 1, 1, 0.1);
+  opacity: 0.7;
+}
+
+.formGroup {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.label {
+  font-size: 16px;
+  color: #000000;
+  margin-bottom: 8px;
+  display: block;
+  font-weight: bold;
+}
+
+.input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 16px;
+  color: #1a1a1a;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+}
+
+.passwordContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.eyeButton {
+  position: absolute;
+  right: 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.eyeIcon {
+  width: 20px;
+  height: 20px;
+}
+
+.submitButton {
+  width: 100%;
+  padding: 12px;
+  background: #3b82f6;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-bottom: 20px;
+}
+
+.submitButton:hover {
+  background: #2563eb;
+}
+
+.submitButton:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+.googleButton {
+  width: 100%;
+  padding: 12px;
+  background: #ffffff;
+  border: 1px solid #dadce0;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a73e8;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  transition: background 0.2s, box-shadow 0.2s;
+  margin-bottom: 20px;
+}
+
+.googleButton:hover {
+  background: #f8f9fa;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+.googleButton:disabled {
+  background: #f8f9fa;
+  color: #9ca3af;
+  border-color: #e5e7eb;
+  cursor: not-allowed;
+}
+
+.googleButton:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(26, 115, 232, 0.5);
+}
+
+.googleIcon {
+  width: 24px;
+  height: 24px;
+}
+
+.error {
+  color: #b91c1c;
+  background: #fee2e2;
+  padding: 8px;
+  border-radius: 4px;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.link {
+  font-size: 14px;
+  color: #4b5563;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.link a {
+  color: #3b82f6;
+  text-decoration: none;
+}
+
+.link a:hover {
+  text-decoration: underline;
+}
+
+.loaderContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+
+.loader {
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #3b82f6;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+  margin-bottom: 10px;
+}
+
+.loaderText {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Tablet and mobile view (≤768px) */
+@media (max-width: 768px) {
+  .signInContainer {
+    min-height: calc(100vh - 150px); /* Adjust for smaller header/footer */
+    padding: 15px;
+    background: linear-gradient(135deg, #e0e7ff 0%, #c3dafe 100%); /* Fallback background for mobile */
+  }
+
+  .contentWrapper {
+    max-width: 90%;
+    padding: 20px;
+  }
+
+  .videoWrapper,
+  .backgroundVideo {
+    display: none; /* Hide video on mobile */
+  }
+
+  .signInContainer::before {
+    display: none; /* Remove overlay as video is hidden */
+  }
+
+  .languageSwitch {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    gap: 8px;
+    z-index: 2; /* Ensure above content */
+  }
+
+  .languageButton {
+    padding: 6px 12px;
+    font-size: 12px;
+  }
+
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .signInCard {
+    padding: 20px;
+    max-width: 100%; /* Full width on smaller screens */
+    opacity: 0.9; /* Increase opacity for better readability without video */
+  }
+
+  .formGroup {
+    margin-bottom: 15px;
+  }
+
+  .label {
+    font-size: 14px;
+  }
+
+  .input {
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  .submitButton,
+  .googleButton {
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  .googleIcon {
+    width: 20px;
+    height: 20px;
+  }
+
+  .error {
+    font-size: 12px;
+    padding: 6px;
+  }
+
+  .link {
+    font-size: 12px;
+  }
+
+  .loader {
+    width: 32px;
+    height: 32px;
+  }
+
+  .loaderText {
+    font-size: 16px;
+  }
+}
+
+/* Small mobile view (≤480px) */
+@media (max-width: 480px) {
+  .signInContainer {
+    padding: 10px;
+  }
+
+  .contentWrapper {
+    padding: 15px;
+  }
+
+  .title {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+
+  .signInCard {
+    padding: 15px;
+  }
+
+  .languageSwitch {
+    top: 8px;
+    right: 8px;
+    gap: 6px;
+  }
+
+  .languageButton {
+    padding: 5px 10px;
+    font-size: 11px;
+  }
+
+  .formGroup {
+    margin-bottom: 12px;
+  }
+
+  .label {
+    font-size: 13px;
+  }
+
+  .input {
+    padding: 8px;
+    font-size: 13px;
+  }
+
+  .submitButton,
+  .googleButton {
+    padding: 8px;
+    font-size: 13px;
+  }
+
+  .googleIcon {
+    width: 18px;
+    height: 18px;
+  }
+
+  .error {
+    font-size: 11px;
+    padding: 5px;
+  }
+
+  .link {
+    font-size: 11px;
+  }
+
+  .eyeIcon {
+    width: 18px;
+    height: 18px;
+  }
+}
