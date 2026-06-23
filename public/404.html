@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Redirecting…</title>
+    <script>
+      // GitHub Pages serves this file for any path that isn't a real file
+      // (e.g. the share link https://holoapp.tech/shared/<token>). This site is
+      // a HashRouter SPA, so translate the path into a hash route and reload.
+      (function () {
+        var l = window.location;
+        var path = l.pathname.replace(/\/+$/, ""); // drop trailing slash(es)
+        if (path && path !== "/index.html") {
+          l.replace(l.origin + "/#" + path + l.search);
+        } else {
+          l.replace(l.origin + "/");
+        }
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>

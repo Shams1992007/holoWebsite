@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import "./App.css";
 import "./components/styles.css";
 import {
-  HashRouter as Router,
   Routes,
   Route
 } from "react-router-dom";
@@ -51,6 +50,7 @@ import FleetWelcome from "./pages/fleet/FleetWelcome";
 import FleetHomepage from "./pages/fleet/FleetHomepage";
 import FleetRentalRequest from "./pages/fleet/FleetRentalRequest";
 import FleetUserDetails from "./pages/fleet/FleetUserDetails";
+import SharedRide from "./pages/SharedRide";
 /*
 import UserListAdminBrta from "./pages/userListAdminBrta";
 import CompletedRideAdmin from "./pages/completedRidesAdmin";
@@ -64,7 +64,6 @@ class App extends Component {
   render() {
     return (
       <div className="body-wrapper">
-        <Router>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
@@ -108,7 +107,8 @@ class App extends Component {
             <Route path="/fleet-signin" element={<FleetWelcome />} />              
             <Route path="/fleet-homepage" element={<FleetHomepage />} />              
             <Route path="/rental-requests-fleet" element={<FleetRentalRequest />} />      
-            <Route path="/user-details-fleet/:userID" element={<FleetUserDetails />} />      
+            <Route path="/user-details-fleet/:userID" element={<FleetUserDetails />} />
+            <Route path="/shared/:token" element={<SharedRide />} />
 {/*            
             <Route path="/userListAdminBrta" element={<UserListAdminBrta />} />
             <Route path="/completedRideAdmin" element={<CompletedRideAdmin />} />
@@ -118,7 +118,6 @@ class App extends Component {
             <Route path="/complainAdmin" element={<ComplainAdmin />} />
 */}            
           </Routes>
-        </Router>
       </div>
     );
   }
